@@ -11,8 +11,11 @@
             "id": "85104355a588af36",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/plugins/obsidian-git/data.json",
+                "staged": false
+              }
             }
           }
         ]
@@ -146,6 +149,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6fe22225f583455",
-  "lastOpenFiles": []
+  "active": "85104355a588af36",
+  "lastOpenFiles": [
+    "1st Note.md"
+  ]
 }
