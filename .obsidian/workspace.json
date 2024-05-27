@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Vision - Machine Vision/02-Feature Extraction/Colour Features.md",
+                "file": "AI Terminology.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Vision - Machine Vision/02-Feature Extraction/Colour Features.md",
+                "file": "AI Terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Vision - Machine Vision/02-Feature Extraction/Colour Features.md",
+                "file": "AI Terminology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Vision - Machine Vision/02-Feature Extraction/Colour Features.md"
+                "file": "AI Terminology.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -181,16 +181,16 @@
   },
   "active": "f1fe756272686007",
   "lastOpenFiles": [
-    "Computer Vision - Machine Vision/Computer Vision Terminology.md",
-    "Computer Vision - Machine Vision/02-Feature Extraction/Colour Features.md",
-    "Computer Vision - Machine Vision/02-Feature Extraction/__References__.md",
     "Computer Vision - Machine Vision/__References__.md",
+    "NLP/00-References.md",
+    "Computer Vision - Machine Vision/02-Feature Extraction/Colour Features.md",
+    "Computer Vision - Machine Vision/Computer Vision Terminology.md",
+    "Computer Vision - Machine Vision/02-Feature Extraction/__References__.md",
     "AI Terminology.md",
     "README.md",
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Untitled.md",
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/__References__.md",
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/__References__.md",
-    "NLP/00-References.md",
     "NLP",
     "Computer Vision - Machine Vision/01-Exploratory Data Analysis/Image Metadata.md",
     "Computer Vision - Machine Vision/02-Feature Extraction",
