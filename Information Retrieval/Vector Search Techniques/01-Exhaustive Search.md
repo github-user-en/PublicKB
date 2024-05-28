@@ -1,3 +1,4 @@
 - involves matching the query vector to every vector in the database, and find the closest among them.
 - Because of this, takes O(n) time complexity, where 'n' refers to the no. of vectors in the database
 - very naïve technique; 
+- suitable only when your search database is small

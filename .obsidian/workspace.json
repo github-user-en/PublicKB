@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Vision - Machine Vision/02-Feature Extraction/__References__.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1fe756272686007",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Information Retrieval/Modality based Search Characteristics.md",
+                "file": "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/__References__.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Retrieval/Modality based Search Characteristics.md",
+                "file": "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/__References__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Retrieval/Modality based Search Characteristics.md",
+                "file": "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/__References__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Retrieval/Modality based Search Characteristics.md"
+                "file": "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/__References__.md"
               }
             }
           },
@@ -179,12 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1fe756272686007",
+  "active": "5b4c9f50d3bfc5b4",
   "lastOpenFiles": [
-    "Information Retrieval/02-Approximate Nearest Neighbour/02-Approximate Nearest Neighbour.md",
-    "Information Retrieval/Modality based Search Characteristics.md",
-    "Information Retrieval/02-Approximate Nearest Neighbour",
-    "Information Retrieval/01-Exhaustive Search.md",
+    "Information Retrieval/Vector Search Techniques/02-Approximate Nearest Neighbour/02-Approximate Nearest Neighbour.md",
+    "Information Retrieval/Vector Search Techniques/Modality based Vector Search Characteristics.md",
+    "Information Retrieval/Vector Search Techniques/01-Exhaustive Search.md",
+    "Computer Vision - Machine Vision/02-Feature Extraction/__References__.md",
+    "Information Retrieval/Vector Search Techniques",
+    "Information Retrieval/Vector Search Techniques/02-Approximate Nearest Neighbour",
     "NLP/02-Feature Extraction/BM25.md",
     "Information Retrieval",
     "NLP/02-Feature Extraction/TF-IDF.md",
@@ -194,7 +184,6 @@
     "Computer Vision - Machine Vision/__References__.md",
     "Computer Vision - Machine Vision/02-Feature Extraction/Colour Features.md",
     "Computer Vision - Machine Vision/Computer Vision Terminology.md",
-    "Computer Vision - Machine Vision/02-Feature Extraction/__References__.md",
     "README.md",
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Untitled.md",
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/__References__.md",
@@ -211,7 +200,6 @@
     "Computer Vision - Machine Vision/01-Exploratory Data Analysis",
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/AI Objectives in Computer Vision.md",
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval",
-    "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/__References__/EarthGPT.md",
-    "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/__References__"
+    "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/__References__/EarthGPT.md"
   ]
 }
