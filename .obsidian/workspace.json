@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Retrieval/02-Approximate Nearest Neighbour/02-Approximate Nearest Neighbour.md",
+                "file": "Information Retrieval/Modality based Search Characteristics.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Retrieval/02-Approximate Nearest Neighbour/02-Approximate Nearest Neighbour.md",
+                "file": "Information Retrieval/Modality based Search Characteristics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Retrieval/02-Approximate Nearest Neighbour/02-Approximate Nearest Neighbour.md",
+                "file": "Information Retrieval/Modality based Search Characteristics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Retrieval/02-Approximate Nearest Neighbour/02-Approximate Nearest Neighbour.md"
+                "file": "Information Retrieval/Modality based Search Characteristics.md"
               }
             }
           },
@@ -179,11 +179,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6fe22225f583455",
+  "active": "f1fe756272686007",
   "lastOpenFiles": [
+    "Information Retrieval/02-Approximate Nearest Neighbour/02-Approximate Nearest Neighbour.md",
+    "Information Retrieval/Modality based Search Characteristics.md",
     "Information Retrieval/02-Approximate Nearest Neighbour",
     "Information Retrieval/01-Exhaustive Search.md",
-    "Information Retrieval/02-Approximate Nearest Neighbour/02-Approximate Nearest Neighbour.md",
     "NLP/02-Feature Extraction/BM25.md",
     "Information Retrieval",
     "NLP/02-Feature Extraction/TF-IDF.md",
@@ -211,7 +212,6 @@
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/AI Objectives in Computer Vision.md",
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval",
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/__References__/EarthGPT.md",
-    "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/__References__",
-    "Computer Vision - Machine Vision"
+    "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/__References__"
   ]
 }
