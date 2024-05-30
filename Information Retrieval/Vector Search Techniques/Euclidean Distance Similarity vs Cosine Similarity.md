@@ -1,1 +1,1 @@
-Choosing between the twi
+Choosing between the two is tricky. Cosine Similarity would work better most of the times, but when working with textual keyword search, sometimes Euclidean Distance works better.
