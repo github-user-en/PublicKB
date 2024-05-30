@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Retrieval/Vector Search Techniques/Euclidean Distance Similarity vs Cosine Similarity.md",
+                "file": "Python/OOPS concepts in Python/Polymorphism.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Retrieval/Vector Search Techniques/Euclidean Distance Similarity vs Cosine Similarity.md",
+                "file": "Python/OOPS concepts in Python/Polymorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Retrieval/Vector Search Techniques/Euclidean Distance Similarity vs Cosine Similarity.md",
+                "file": "Python/OOPS concepts in Python/Polymorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Retrieval/Vector Search Techniques/Euclidean Distance Similarity vs Cosine Similarity.md"
+                "file": "Python/OOPS concepts in Python/Polymorphism.md"
               }
             }
           },
@@ -169,8 +169,11 @@
   },
   "active": "5b4c9f50d3bfc5b4",
   "lastOpenFiles": [
-    "Information Retrieval/Vector Search Techniques/Modality based Vector Search Characteristics.md",
     "Information Retrieval/Vector Search Techniques/Euclidean Distance Similarity vs Cosine Similarity.md",
+    "Python/OOPS concepts in Python/Polymorphism.md",
+    "Python/OOPS concepts in Python",
+    "Python",
+    "Information Retrieval/Vector Search Techniques/Modality based Vector Search Characteristics.md",
     "Information Retrieval/Vector Search Techniques/02-Approximate Nearest Neighbour/01-Hierarchical Navigable Small Worlds Graph (HNSW).md",
     "NLP/__References__.md",
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/__References__.md",
@@ -198,9 +201,7 @@
     "__assets__/Pasted image 20240523120734.png",
     "__assets__/Pasted image 20240523120711.png",
     "Computer Vision - Machine Vision/XX-Computer Vision Applications",
-    "Computer Vision - Machine Vision/01-Exploratory Data Analysis",
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/AI Objectives in Computer Vision.md",
-    "Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval",
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/__References__/EarthGPT.md"
   ]
 }
