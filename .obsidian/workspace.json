@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Retrieval/Vector Search Techniques/02-Approximate Nearest Neighbour/01-Hierarchical Navigable Small Worlds Graph (HNSW).md",
+                "file": "Information Retrieval/Vector Search Techniques/Euclidean Distance Similarity vs Cosine Similarity.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Retrieval/Vector Search Techniques/02-Approximate Nearest Neighbour/01-Hierarchical Navigable Small Worlds Graph (HNSW).md",
+                "file": "Information Retrieval/Vector Search Techniques/Euclidean Distance Similarity vs Cosine Similarity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Retrieval/Vector Search Techniques/02-Approximate Nearest Neighbour/01-Hierarchical Navigable Small Worlds Graph (HNSW).md",
+                "file": "Information Retrieval/Vector Search Techniques/Euclidean Distance Similarity vs Cosine Similarity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Retrieval/Vector Search Techniques/02-Approximate Nearest Neighbour/01-Hierarchical Navigable Small Worlds Graph (HNSW).md"
+                "file": "Information Retrieval/Vector Search Techniques/Euclidean Distance Similarity vs Cosine Similarity.md"
               }
             }
           },
@@ -169,10 +169,11 @@
   },
   "active": "5b4c9f50d3bfc5b4",
   "lastOpenFiles": [
+    "Information Retrieval/Vector Search Techniques/Modality based Vector Search Characteristics.md",
+    "Information Retrieval/Vector Search Techniques/Euclidean Distance Similarity vs Cosine Similarity.md",
+    "Information Retrieval/Vector Search Techniques/02-Approximate Nearest Neighbour/01-Hierarchical Navigable Small Worlds Graph (HNSW).md",
     "NLP/__References__.md",
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/__References__.md",
-    "Information Retrieval/Vector Search Techniques/02-Approximate Nearest Neighbour/01-Hierarchical Navigable Small Worlds Graph (HNSW).md",
-    "Information Retrieval/Vector Search Techniques/Modality based Vector Search Characteristics.md",
     "Information Retrieval/Vector Search Techniques/01-Exhaustive Search.md",
     "Computer Vision - Machine Vision/02-Feature Extraction/__References__.md",
     "Information Retrieval/Vector Search Techniques",
