@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP/__References__.md",
+                "file": "Information Retrieval/Vector Search Techniques/02-Approximate Nearest Neighbour/01-Hierarchical Navigable Small Worlds Graph (HNSW).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP/__References__.md",
+                "file": "Information Retrieval/Vector Search Techniques/02-Approximate Nearest Neighbour/01-Hierarchical Navigable Small Worlds Graph (HNSW).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP/__References__.md",
+                "file": "Information Retrieval/Vector Search Techniques/02-Approximate Nearest Neighbour/01-Hierarchical Navigable Small Worlds Graph (HNSW).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NLP/__References__.md"
+                "file": "Information Retrieval/Vector Search Techniques/02-Approximate Nearest Neighbour/01-Hierarchical Navigable Small Worlds Graph (HNSW).md"
               }
             }
           },
@@ -169,8 +169,9 @@
   },
   "active": "5b4c9f50d3bfc5b4",
   "lastOpenFiles": [
+    "NLP/__References__.md",
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/__References__.md",
-    "Information Retrieval/Vector Search Techniques/02-Approximate Nearest Neighbour/02-Approximate Nearest Neighbour.md",
+    "Information Retrieval/Vector Search Techniques/02-Approximate Nearest Neighbour/01-Hierarchical Navigable Small Worlds Graph (HNSW).md",
     "Information Retrieval/Vector Search Techniques/Modality based Vector Search Characteristics.md",
     "Information Retrieval/Vector Search Techniques/01-Exhaustive Search.md",
     "Computer Vision - Machine Vision/02-Feature Extraction/__References__.md",
@@ -179,7 +180,6 @@
     "NLP/02-Feature Extraction/BM25.md",
     "Information Retrieval",
     "NLP/02-Feature Extraction/TF-IDF.md",
-    "NLP/__References__.md",
     "AI Terminology.md",
     "NLP/02-Feature Extraction",
     "Computer Vision - Machine Vision/__References__.md",
