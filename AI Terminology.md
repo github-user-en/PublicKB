@@ -8,3 +8,12 @@ The main purpose of using bootstrapped datasets in machine learning is to improv
 Suppose the original dataset had N records. Now, the bootstrapped dataset will have  also have N records, only (N-n) unique records. 
 Since there are 'n' suplicated records, exactly 'n' records would have been left out from the original dataset in the bootstrapped dataset. These 'n' leftout records can be used as test dataset to evaluate   the machine learning model.
 ```
+
+# Vectors / Embeddings
+> [!info] References
+> - https://news.ycombinator.com/item?id=38971877
+> - Google search:
+> 	- vector database survey
+
+
+
