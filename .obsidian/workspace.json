@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Terminology.md",
+                "file": "NLP/03-Model Building/Quantization.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "caption",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Terminology.md",
+                "file": "NLP/03-Model Building/Quantization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Terminology.md",
+                "file": "NLP/03-Model Building/Quantization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Terminology.md"
+                "file": "NLP/03-Model Building/Quantization.md"
               }
             }
           },
@@ -169,13 +169,16 @@
   },
   "active": "5b4c9f50d3bfc5b4",
   "lastOpenFiles": [
+    "NLP/__References__.md",
+    "NLP/03-Model Building/Quantization.md",
+    "NLP/03-Model Building",
+    "AI Terminology.md",
     "Python/OOPS concepts in Python/Polymorphism.md",
     "Information Retrieval/Vector Search Techniques/Euclidean Distance Similarity vs Cosine Similarity.md",
     "Python/OOPS concepts in Python",
     "Python",
     "Information Retrieval/Vector Search Techniques/Modality based Vector Search Characteristics.md",
     "Information Retrieval/Vector Search Techniques/02-Approximate Nearest Neighbour/01-Hierarchical Navigable Small Worlds Graph (HNSW).md",
-    "NLP/__References__.md",
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/__References__.md",
     "Information Retrieval/Vector Search Techniques/01-Exhaustive Search.md",
     "Computer Vision - Machine Vision/02-Feature Extraction/__References__.md",
@@ -184,7 +187,6 @@
     "NLP/02-Feature Extraction/BM25.md",
     "Information Retrieval",
     "NLP/02-Feature Extraction/TF-IDF.md",
-    "AI Terminology.md",
     "NLP/02-Feature Extraction",
     "Computer Vision - Machine Vision/__References__.md",
     "Computer Vision - Machine Vision/02-Feature Extraction/Colour Features.md",
@@ -200,7 +202,6 @@
     "__assets__",
     "__assets__/Pasted image 20240523120734.png",
     "__assets__/Pasted image 20240523120711.png",
-    "Computer Vision - Machine Vision/XX-Computer Vision Applications",
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/AI Objectives in Computer Vision.md",
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/__References__/EarthGPT.md"
   ]
