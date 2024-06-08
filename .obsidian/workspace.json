@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "NLP/03-Model Building/Large Language Models (LLMs)/__init__.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "NLP/03-Model Building/Large Language Models (LLMs)/__init__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "NLP/03-Model Building/Large Language Models (LLMs)/__init__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "NLP/03-Model Building/Large Language Models (LLMs)/__init__.md"
               }
             }
           },
@@ -167,10 +167,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b4c9f50d3bfc5b4",
+  "active": "b6fe22225f583455",
   "lastOpenFiles": [
-    "NLP/03-Model Building/Quantization.md",
-    "NLP/03-Model Building/Retrieval Augmented Generation (RAG).md",
+    "README.md",
+    "NLP/03-Model Building/Large Language Models (LLMs)/__init__.md",
+    "NLP/03-Model Building/Large Language Models (LLMs)",
+    "NLP/03-Model Building/Large Language Models (LLMs)/Quantization.md",
+    "NLP/03-Model Building/Large Language Models (LLMs)/Retrieval Augmented Generation (RAG).md",
     "NLP/__References__.md",
     "NLP/03-Model Building",
     "AI Terminology.md",
@@ -192,7 +195,6 @@
     "Computer Vision - Machine Vision/__References__.md",
     "Computer Vision - Machine Vision/02-Feature Extraction/Colour Features.md",
     "Computer Vision - Machine Vision/Computer Vision Terminology.md",
-    "README.md",
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Untitled.md",
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/__References__.md",
     "NLP",
@@ -200,7 +202,6 @@
     "Computer Vision - Machine Vision/02-Feature Extraction",
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
     "__assets__/Pasted image 20240523120739.png",
-    "__assets__",
     "__assets__/Pasted image 20240523120734.png",
     "__assets__/Pasted image 20240523120711.png",
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/AI Objectives in Computer Vision.md",
