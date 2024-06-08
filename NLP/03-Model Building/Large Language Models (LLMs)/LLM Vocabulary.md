@@ -7,6 +7,6 @@
 	- **Natural Language Generation (NLG):** interested in making machines write like humans. This gave birth to generative models for next word/token prediction. 
 		- **Statistical Models:** such as Markov Chain models.
 		- **Deep Learning Models:** LLMs are an example of a Deep Learning model for NLG. Initial Language Models (such as T5) were encoder-decoder models. Today, most LLMs are decoder only models.
-		 		- **Base Model / Pre-trained Model:** 
-	 			- Downstream Tasks
+		 - **Base Model / Pre-trained Model:** These are essentially next word (or, next token) prediction systems, trained on pre-training data. These pre-trained/base models are sufficient for ***downstream NLP tasks***.
+			- Downstream Tasks
 	 		- 
