@@ -6,6 +6,7 @@
 	- **Natural Language Understanding (NLU)**: aims at understanding human natural language input into machine understandable instructions.
 	- **Natural Language Generation (NLG):** interested in making machines write like humans. This gave birth to generative models for next word/token prediction.
 		- **Statistical Models:** such as Markov Chain models.
-	 		- Base Model
+	 		- **Deep Learning Models:** LLMs are an example of a Deep Learning model for NLG.
+		 		- **Base Model:** 
 	 			- Downstream Tasks
 	 		- 
