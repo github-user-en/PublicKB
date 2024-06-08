@@ -1,3 +1,7 @@
+> [!info] References
+> https://www.youtube.com/watch?v=F5nlMBVZxb4
+
+
 Over time, the capabilities of the Large Language Models have increased as follows:
 1. LLMs as next token prediction systems.
 2. LLMs as next token and masked token prediction systems.
@@ -31,5 +35,5 @@ Over time, the capabilities of the Large Language Models have increased as follo
 8. LLM Operating System (LLM OS)
 	- This idea was first enunciated by Andrej Karpathy.
 	- ![[Pasted image 20240608230130.png]]
-	- These are still being 
+	- These are still being developed as of 2024.
 ![[Pasted image 20240608221227.png]]
