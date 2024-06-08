@@ -7,3 +7,6 @@ It's done for two reasons:
 1-bit LLMs are a way forward, when used with ternary parameters.
 - [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/pdf/2402.17764)
 - https://thegenerality.com/agi/
+- https://www.youtube.com/watch?v=ZpxQec_3t38
+- https://www.youtube.com/watch?v=wN07Wwtp6LE
+
