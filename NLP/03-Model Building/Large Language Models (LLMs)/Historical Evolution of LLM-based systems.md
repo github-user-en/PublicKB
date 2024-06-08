@@ -22,5 +22,14 @@ Over time, the capabilities of the Large Language Models have increased as follo
 7. LLM Agents
 	- ![[Pasted image 20240608224008.png]]The above picture demonstrates how LLM Agents were leveraged to create [BabyAGI](https://babyagi.org/).
 	- LLM Agents are able to leverage both RAG and Tool calling capabilities.
-
+	- Some popular agent frameworks are Crew AI, LangGraph, pyautogen, etc.
+	- An LLM Agent require you to define the follow:
+		1. The LLM's Role (R)
+		2. The LLM's Goal (G)
+		3. The LLM to be used as backend engine
+	- You can assemble multiple such agents to create a multi-agent system.
+8. LLM Operating System (LLM OS)
+	- This idea was first enunciated by Andrej Karpathy.
+	- ![[Pasted image 20240608230130.png]]
+	- These are still being 
 ![[Pasted image 20240608221227.png]]
