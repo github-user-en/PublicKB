@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Vision - Machine Vision/02-Feature Extraction/__References__.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b4c9f50d3bfc5b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "NLP/03-Model Building/Large Language Models (LLMs)/LLM Vocabulary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,14 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b4c9f50d3bfc5b4",
+  "active": "b6fe22225f583455",
   "lastOpenFiles": [
-    "Pasted image 20240609011519.png",
     "NLP/03-Model Building/Large Language Models (LLMs)/Historical Evolution of LLM-based systems.md",
+    "__assets__/Pasted image 20240608221227.png",
     "NLP/03-Model Building/Large Language Models (LLMs)/LLM Vocabulary.md",
-    "Pasted image 20240608230130.png",
-    "Pasted image 20240608224008.png",
-    "Pasted image 20240608221227.png",
+    "__assets__/Pasted image 20240609011519.png",
+    "__assets__/Pasted image 20240608230130.png",
+    "__assets__/Pasted image 20240608224008.png",
     "README.md",
     "NLP/03-Model Building/Large Language Models (LLMs)",
     "NLP/03-Model Building/Large Language Models (LLMs)/Quantization.md",
