@@ -13,13 +13,14 @@ Over time, the capabilities of the Large Language Models have increased as follo
 	- These are LLM Chatbots access to ***external data***, in addition to their in-memory context.
 	- The ***external data*** can be in the form of either a vector database or text database (text files, relational databases (since they are stored in textual files too), etc. )
 6. LLM Function Calling systems
-	- These are LLM Chatbots which are forced to give ***structured responses***; not plain-text unstructured response.
-	- The format of the ***structured response*** in the LLM space is almost universally that of a JSON object. The only exception to this is Anthropic's LLM systems which prefer the XML format.
-	- The name "***Function Calling Systems***" is somewhat of a misnomer because the Function Calling LLM systems don't really call any functions. It's their structured JSON/XML response which can be passed to a function (or, an API).
+	- These are LLM systems which are empowered to interact with external ***tools*** (which may be python functions or APIs).
+	- Since functions and APIs can only understand and can only output structured responses, to facilitate these interactions, LLM Chatbots are forced to give ***structured responses***.
+	- The format of the ***structured response*** in the LLM space is almost universally that of a JSON object. The only exception to this rule is Anthropic's LLM systems which use the XML format. 
 > [!info]
 > As stated earlier, the capabilities of LLM-RAG and LLM-Function Calling Systems, when put together, lead us to LLM Agent systems.
 
-
 7. LLM Agents
+	- ![[Pasted image 20240608224008.png]]The above picture demonstrates how LLM Agents were leveraged to create [BabyAGI](https://babyagi.org/).
+	- LLM Agents are able to leverage both RAG and Tool calling capabilities.
 
 ![[Pasted image 20240608221227.png]]
