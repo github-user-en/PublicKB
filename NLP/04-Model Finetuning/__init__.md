@@ -37,17 +37,9 @@ Most companies pick up a base model and finetune it to their needs. Sometimes th
 		- **3. Text Summarization Systems:**
 			- **Problem:** Text summarization systems automatically create summaries of longer pieces of text. However, depending on the summarization algorithm, the summary might focus on different aspects of the original text.
 			- **Steerability in Action:** Some summarization systems allow users to specify the desired length or focus area (e.g., key points, main arguments) for the summary. This steers the system to generate a summary that aligns with the user's needs.
-    
-
-**4. Dialogue Systems (Chatbots):**
-
-- **Problem:** Chatbots are computer programs designed to simulate conversation with humans. However, their responses might not always be on point or address the user's specific questions.
-    
-- **Steerability in Action:** Some chatbots allow users to correct or refine their responses. Additionally, developers can steer the chatbot's conversation flow by designing decision trees or using prompts that guide the chatbot towards providing helpful and relevant information.
-    
-
-**5. Content Creation Tools:**
-
-- **Problem:** AI-powered content creation tools can generate different creative text formats, but the style or tone might not always be what the user desires.
-    
-- **Steerability in Action:** Some content creation tools allow users to specify the desired tone (e.g., formal, informal, humorous) or style (e.g., narrative, persuasive) for the generated content. This steers the AI model to create content that aligns with the user's preferences.
+		- **4. Dialogue Systems (Chatbots):**
+			- **Problem:** Chatbots are computer programs designed to simulate conversation with humans. However, their responses might not always be on point or address the user's specific questions.
+		    - **Steerability in Action:** Some chatbots allow users to correct or refine their responses. Additionally, developers can steer the chatbot's conversation flow by designing decision trees or using prompts that guide the chatbot towards providing helpful and relevant information.
+		- **5. Content Creation Tools:**
+			- **Problem:** AI-powered content creation tools can generate different creative text formats, but the style or tone might not always be what the user desires.
+		    - **Steerability in Action:** Some content creation tools (such as Grammarly) allow users to specify the desired tone (e.g., formal, informal, humorous) or style (e.g., narrative, persuasive) for the generated content. This steers the AI model to create content that aligns with the user's preferences.
