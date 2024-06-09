@@ -2,7 +2,9 @@
 
 **Grokking** refers to the surprising phenomenon of delayed generalization where neural networks, generalize on certain learning problems, long after overfitting their training set. 
 ![[Pasted image 20240609134918.png]]
-Since Grokking requires extended model training, it runs contrary to the traditional Machine Learning belief that we need to stop model training early to prevent overfitting.
+- Since Grokking requires extended model training, it runs contrary to the traditional Machine Learning belief that we need to stop model training early to prevent overfitting.
+- Grokking can occur not only on algorithmic datasets (such as in case of linear regression), but also on mainstream benchmark dataset requiring non-linear thinking (such as MNIST image classification).  ![[Pasted image 20240609141243.png]]
+- The emergence of embedding patterns after grokking indicates that the embeddings are not random but instead, have a structured relationship that reflects the underlying mathematical operations the model is learning.
 > [!info] Grokking references:
 > https://www.youtube.com/watch?v=QgOeWbW0jeA
 
