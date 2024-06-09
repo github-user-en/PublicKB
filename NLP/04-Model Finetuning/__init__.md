@@ -20,5 +20,7 @@ Most companies pick up a base model and finetune it to their needs. Sometimes th
 1. **When you want role-play + formatting.**
    Example includes: 
    ![[Pasted image 20240609123006.png]]
-   Here, you are training the model to answer questions of the form `What is the capital of ____?`
-2. 
+   Here, you are training the model to:
+	   1. Play the role of a helpful assistant in response to User prompts.
+	   2. Answer questions of the form `What is the capital of ____?` in a specific format such as `The capital of ____ is ____.`
+2. **Steerability:** 
