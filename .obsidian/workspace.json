@@ -156,8 +156,9 @@
   },
   "active": "58c2a043f0f484dd",
   "lastOpenFiles": [
-    "NLP/04-Model Training/__init__.md",
+    "NLP/03-Model Building/Large Language Models (LLMs)/'.md",
     "Information Retrieval/Vector Search Techniques/Vector Databases.md",
+    "NLP/04-Model Training/__init__.md",
     "__assets__/Pasted image 20240609141243.png",
     "__assets__/Pasted image 20240609134918.png",
     "NLP/05-Model Finetuning/__init__.md",
@@ -200,7 +201,6 @@
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Untitled.md",
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/__References__.md",
     "Computer Vision - Machine Vision/01-Exploratory Data Analysis/Image Metadata.md",
-    "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
     "__assets__/Pasted image 20240523120739.png"
   ]
 }
