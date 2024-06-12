@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP/04-Model Training/__init__.md",
+                "file": "Information Retrieval/Vector Search Techniques/Vector Databases.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP/04-Model Training/__init__.md",
+                "file": "Information Retrieval/Vector Search Techniques/Vector Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP/04-Model Training/__init__.md",
+                "file": "Information Retrieval/Vector Search Techniques/Vector Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NLP/04-Model Training/__init__.md"
+                "file": "Information Retrieval/Vector Search Techniques/Vector Databases.md"
               }
             }
           },
@@ -156,10 +156,11 @@
   },
   "active": "58c2a043f0f484dd",
   "lastOpenFiles": [
+    "NLP/04-Model Training/__init__.md",
+    "Information Retrieval/Vector Search Techniques/Vector Databases.md",
     "__assets__/Pasted image 20240609141243.png",
     "__assets__/Pasted image 20240609134918.png",
     "NLP/05-Model Finetuning/__init__.md",
-    "NLP/04-Model Training/__init__.md",
     "NLP/04-Model Training",
     "__assets__/Pasted image 20240609123006.png",
     "__assets__/Pasted image 20240609122635.png",
@@ -200,7 +201,6 @@
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/__References__.md",
     "Computer Vision - Machine Vision/01-Exploratory Data Analysis/Image Metadata.md",
     "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
-    "__assets__/Pasted image 20240523120739.png",
-    "__assets__/Pasted image 20240523120734.png"
+    "__assets__/Pasted image 20240523120739.png"
   ]
 }
