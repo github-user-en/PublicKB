@@ -1,3 +1,13 @@
+# Geospatial Data vs Remote Sensing Data
+> [!info] References
+> - [What is Geospatial Data? - IBM](https://www.ibm.com/topics/geospatial-data#:~:text=Geospatial%20technology%20refers%20to%20all,mapping%20and%20analysis%20of%20Earth.)
+> - [How Remote Sensing Makes Geospatial Data Collection More Accessible - Ellipsis Drive](https://ellipsis-drive.com/blog/how-remote-sensing-makes-geospatial-data-collection/)
+
+Geospatial data typically combines location information (usually coordinates on the earth) and attribute information (the characteristics of the object, event or phenomena concerned) with temporal information (the time or life span at which the location and attributes exist). It can provide insights into relationships between variables and reveal patterns and trends.
+
+Remote Sensing is one of the techniques used to gather Geospatial data. As such, Remote Sensing data is a subset of Geospatial data.
+
+
 # How can i get access to ISRO's remote sensing imagery?
 
 To access ISRO's (Indian Space Research Organisation) remote sensing imagery, you can follow these general steps:

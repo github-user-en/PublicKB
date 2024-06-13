@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Retrieval/Vector Search Techniques/Vector Databases.md",
+                "file": "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Retrieval/Vector Search Techniques/Vector Databases.md",
+                "file": "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Retrieval/Vector Search Techniques/Vector Databases.md",
+                "file": "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Retrieval/Vector Search Techniques/Vector Databases.md"
+                "file": "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "58c2a043f0f484dd",
   "lastOpenFiles": [
-    "NLP/03-Model Building/Large Language Models (LLMs)/'.md",
+    "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/__References__.md",
     "Information Retrieval/Vector Search Techniques/Vector Databases.md",
+    "NLP/03-Model Building/Large Language Models (LLMs)/'.md",
     "NLP/04-Model Training/__init__.md",
     "__assets__/Pasted image 20240609141243.png",
     "__assets__/Pasted image 20240609134918.png",
@@ -186,7 +187,6 @@
     "Python",
     "Information Retrieval/Vector Search Techniques/Modality based Vector Search Characteristics.md",
     "Information Retrieval/Vector Search Techniques/02-Approximate Nearest Neighbour/01-Hierarchical Navigable Small Worlds Graph (HNSW).md",
-    "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/__References__.md",
     "Information Retrieval/Vector Search Techniques/01-Exhaustive Search.md",
     "Computer Vision - Machine Vision/02-Feature Extraction/__References__.md",
     "Information Retrieval/Vector Search Techniques",
