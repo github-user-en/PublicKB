@@ -1,4 +1,4 @@
-# Geospatial Data vs Remote Sensing Data
+ # Geospatial Data vs Remote Sensing Data
 > [!info] References
 > - [What is Geospatial Data? - IBM](https://www.ibm.com/topics/geospatial-data#:~:text=Geospatial%20technology%20refers%20to%20all,mapping%20and%20analysis%20of%20Earth.)
 > - [How Remote Sensing Makes Geospatial Data Collection More Accessible - Ellipsis Drive](https://ellipsis-drive.com/blog/how-remote-sensing-makes-geospatial-data-collection/)
