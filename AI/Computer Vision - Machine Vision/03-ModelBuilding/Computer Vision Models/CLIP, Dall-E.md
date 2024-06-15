@@ -24,18 +24,24 @@ As such, CLIP was trained to learn & represent visual concepts from natural lang
 1. It demonstrated that scaling a simple pre-training task is sufficient to achieve competitive zero-shot performance on a great variety of image classification datasets. CLIP models can be applied to nearly arbitrary visual classification tasks.
 	- The pre-training task it scales is that of image-caption association. Previously, this contrastive approach was adopted by ConVIRT, but was limited to the field of medical imaging.
 2. Leveraging contrastive learning, the model learn 1 embedding representation for an object's  textual and visual representation. 
-3. **Better generalizability of the zero-shot classifier:** The aforementioned approach (of learning 1 multi-modal embedding representation over thousands/millions of images) helps CLIP generalize well over several benchmarks, which measure varied vision aspects. For instance,
+3. **Better generalizability of the zero-shot classifier:** The aforementioned approach of learning  visual concepts directly from natural language helps CLIP generalize well over several benchmarks, even though measure different vision aspects. For instance,
 		1. ObjectNet checks a model’s ability to recognize objects in many different poses and with many different backgrounds inside homes; while 
 		2. ImageNet Rendition and ImageNet Sketch check a model’s ability to recognize more abstract depictions of objects.
 > [!info]
 > OpenAI conjectured that the previous classifiers suffered from poor generalizability because the models “cheat” by only optimizing for performance on the benchmark, much like a student who passed an exam by studying only the questions on past years’ exams.
 > To verify the “cheating hypothesis”, we also measure how CLIP’s performance changes when it is able to “study” for ImageNet. When a linear classifier is fitted on top of CLIP’s features, it improves CLIP’s accuracy on the ImageNet test set by almost 10%. However, this classifier does _no better_ on average across an evaluation suite of 7 other datasets measuring “robust” performance.[30](https://openai.com/index/clip/#citation-bottom-30)
 
+> [!info]
+> To validate that the CLIP models are more flexible and general than the existing ImageNet models in their zero-shot performance over many different tasks, OpenAI measured CLIP’s zero-shot performance on over 30 different datasets including tasks such as fine-grained object classification, geo-localization, action recognition in videos, and OCR.[B](https://openai.com/index/clip/#citation-bottom-B) In particular, learning OCR was an example of an exciting behavior that did not occur in standard ImageNet models.
 
 4. OpenAI demonstrated that creating dataset for such a capable zero-shot classifier could be cheaper than previous efforts. They used an abundantly available source of supervision: the text paired with images found across the internet. As such, they didn't need human labelers to create this dataset, and dataset preparation proved to be cheap. 
 	- In comparison, the ImageNet dataset, one of the largest efforts in this space, required over 25,000 workers to annotate 14 million images for 22,000 object categories.
 5. **CLIP is highly efficient:** CLIP learns from unfiltered, highly varied, and highly noisy data, and is intended to be used in a zero-shot manner. OpenAI knew from GPT-2 and 3 that models trained on such data can achieve compelling zero shot performance; however, such models require significant training compute. 
-6. Despite their noisy dataset, training over which would have required significant training compute
+6. Despite their noisy dataset, training over which would have required significant training compute, two algorithmic choices led to significant compute savings:
+	1. For this zero-shot classification task, OpenAI originally explored training image-to-caption language models (an image-to-text approach, similar to VirTex), but found this approach struggled at zero-shot transfer across multiple benchmarks. In small to medium scale experiments, we found that the contrastive objective used by CLIP is 4x to 10x more efficient at zero-shot ImageNet classification.
+		- In the initial 16 GPU day experiment, using the VirTex approach, OpenAI observed that a language model achieved only 16% accuracy on ImageNet after training for 400 million images. In contrast, CLIP is much more efficient and achieved the same accuracy roughly 10x faster.
+	2. The second choice was the adoption of the Vision Transformer,[36](https://openai.com/index/clip/#citation-bottom-36) which gave us a further 3x gain in compute efficiency over a standard ResNet. In the end, our best performing CLIP model trains on 256 GPUs for 2 weeks which is similar to existing large scale image models.[37](https://openai.com/index/clip/#citation-bottom-37), [23](https://openai.com/index/clip/#citation-bottom-23), [38](https://openai.com/index/clip/#citation-bottom-38), [36](https://openai.com/index/clip/#citation-bottom-36)
+7. 
 
 ## CLIP Training approach
 1. OpenAI scraped the internet for images-text pairs.
