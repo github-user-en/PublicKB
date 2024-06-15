@@ -1,3 +1,8 @@
+> [!info] Resources
+> - https://www.youtube.com/watch?v=8sVgLz3-W_s
+> - https://www.youtube.com/watch?v=jwZQD0Cqz4o
+
+
 # Dall-E
 Dall-E works in a 3-step process:
 1. It encodes the user's text prompt;
