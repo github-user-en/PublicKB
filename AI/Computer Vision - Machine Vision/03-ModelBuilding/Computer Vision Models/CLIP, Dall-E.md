@@ -20,7 +20,7 @@ CLIP is a model use by OpenAI to train Dall-E. CLIP generates
 As such, CLIP was trained to learn & represent visual concepts from natural language supervision (i.e., the associated text caption/description). CLIP can be applied to any visual classification benchmark by simply providing the names of the visual categories to be recognized.
 
 ## CLIP Achievements
-1. It demonstrated that scaling a simple pre-training task is sufficient to achieve competitive zero-shot performance on a great variety of image classification datasets. 
+1. It demonstrated that scaling a simple pre-training task is sufficient to achieve competitive zero-shot performance on a great variety of image classification datasets. CLIP models can be applied to nearly arbitrary visual classification tasks.
 	- The pre-training task it scales is that of image-caption association. Previously, this contrastive approach was adopted by ConVIRT, but was limited to the field of medical imaging.
 2. This approach helps OpenAI address some critical weaknesses in the AI ecosystem:
 	1. Leveraging contrastive learning, the model learn 1 embedding representation for an object's  textual and visual representation.
@@ -31,4 +31,11 @@ As such, CLIP was trained to learn & represent visual concepts from natural lang
 
 ## CLIP Training approach
 1. OpenAI scraped the internet for images-text pairs.
-2. These image-text pairs were used by OpenAI to 
+2. From this dataset, they would sample 1 image and 32,768 text snippets.
+	- All of the classes in the dataset are converted into captions such as “a photo of a dog”.
+3. CLIP was then given this proxy training task: given an image, predict which out of a set of 32,768 randomly sampled text snippets, was actually paired with it in our dataset.
+	- The intuition behind this training task was that the CLIP models will need to learn to recognize a wide variety of visual concepts in images and associate them with their names.
+	- 
+> [!info] 
+> OpenAI's article talks of CLIP in plural, as *"CLIP models"* because CLIP is composed of two encoder models: one image encoder model; other text encoder model.
+
