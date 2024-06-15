@@ -22,9 +22,10 @@ As such, CLIP was trained to learn & represent visual concepts from natural lang
 ## CLIP Achievements
 1. It demonstrated that scaling a simple pre-training task is sufficient to achieve competitive zero-shot performance on a great variety of image classification datasets. CLIP models can be applied to nearly arbitrary visual classification tasks.
 	- The pre-training task it scales is that of image-caption association. Previously, this contrastive approach was adopted by ConVIRT, but was limited to the field of medical imaging.
-2. This approach helps OpenAI address some critical weaknesses in the AI ecosystem:
+2. This approach helps OpenAI mitigate three critical weaknesses in the AI ecosystem:
 	1. Leveraging contrastive learning, the model learn 1 embedding representation for an object's  textual and visual representation.
-	2. This allows the model to generalize well over several benchmarks, which measure varied vision aspects. For instance,
+	2. **Narrowness:** For example, an ImageNet model is good at predicting the 1000 ImageNet categories, but that’s all it can do “out of the box.” If we wish to perform any other task, an ML practitioner needs to build a new dataset, add an output head, and fine-tune the model. In contrast, CLIP can be adapted to perform a wide variety of visual classification tasks without needing additional training examples. To apply CLIP to a new task, all we need to do is “tell” CLIP’s text-encoder the names of the task’s visual concepts, and it will output a linear classifier of CLIP’s visual representations. The accuracy of this classifier is often competitive with fully supervised models.
+	3. This allows the model to generalize well over several benchmarks, which measure varied vision aspects. For instance,
 		1. ObjectNet checks a model’s ability to recognize objects in many different poses and with many different backgrounds inside homes; while 
 		2. ImageNet Rendition and ImageNet Sketch check a model’s ability to recognize more abstract depictions of objects.
 3. Gathering the data to train CLIP proved to be much simpler, since they uses an abundantly available source of supervision: the text paired with images found across the internet. As such, they didn't need human labelers to create this dataset, and dataset preparation proved to be cheap. 
