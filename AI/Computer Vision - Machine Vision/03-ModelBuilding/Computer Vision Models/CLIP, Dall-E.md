@@ -33,7 +33,7 @@ As such, CLIP was trained to learn & represent visual concepts from natural lang
 
 4. OpenAI demonstrated that creating dataset for such a capable zero-shot classifier could be cheaper than previous efforts. They used an abundantly available source of supervision: the text paired with images found across the internet. As such, they didn't need human labelers to create this dataset, and dataset preparation proved to be cheap. 
 	- In comparison, the ImageNet dataset, one of the largest efforts in this space, required over 25,000 workers to annotate 14 million images for 22,000 object categories.
-5. **CLIP is highly efficient:** 
+5. **CLIP is highly efficient:** CLIP learns from unfiltered, highly varied, and highly noisy data, and is intended to be used in a zero-shot manner. OpenAI knew from GPT-2 and 3 that models trained on such data can achieve compelling zero shot performance; however, such models require significant training compute. 
 
 ## CLIP Training approach
 1. OpenAI scraped the internet for images-text pairs.
