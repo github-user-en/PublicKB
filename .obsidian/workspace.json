@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Vocabulary.md",
+                "file": "AI/NLP/04-Model Training/__references__.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Vocabulary.md",
+                "file": "AI/NLP/04-Model Training/__references__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Vocabulary.md",
+                "file": "AI/NLP/04-Model Training/__references__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Vocabulary.md"
+                "file": "AI/NLP/04-Model Training/__references__.md"
               }
             }
           },
@@ -156,8 +156,11 @@
   },
   "active": "58c2a043f0f484dd",
   "lastOpenFiles": [
-    "AI/NLP/03-Model Building/Large Language Models (LLMs)/Historical Evolution of LLM-based systems.md",
     "AI/NLP/04-Model Training/__init__.md",
+    "AI/NLP/04-Model Training/__references__.md",
+    "AI/NLP/03-Model Building/Large Language Models (LLMs)/__references__.md",
+    "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Vocabulary.md",
+    "AI/NLP/03-Model Building/Large Language Models (LLMs)/Historical Evolution of LLM-based systems.md",
     "AI",
     "AI Terminology.md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
@@ -172,7 +175,6 @@
     "AI/NLP/04-Model Training",
     "__assets__/Pasted image 20240609123006.png",
     "__assets__/Pasted image 20240609122635.png",
-    "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Vocabulary.md",
     "AI/NLP/05-Model Finetuning",
     "__assets__/Pasted image 20240609113442.png",
     "__assets__/Pasted image 20240608221227.png",
@@ -199,7 +201,6 @@
     "AI/Information Retrieval",
     "AI/NLP/02-Feature Extraction/TF-IDF.md",
     "AI/Computer Vision - Machine Vision/__References__.md",
-    "AI/Computer Vision - Machine Vision/02-Feature Extraction/Colour Features.md",
     "__assets__/Pasted image 20240523120739.png"
   ]
 }
