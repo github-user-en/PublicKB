@@ -41,7 +41,7 @@ As such, CLIP was trained to learn & represent visual concepts from natural lang
 	1. For this zero-shot classification task, OpenAI originally explored training image-to-caption language models (an image-to-text approach, similar to VirTex), but found this approach struggled at zero-shot transfer across multiple benchmarks. In small to medium scale experiments, we found that the contrastive objective used by CLIP is 4x to 10x more efficient at zero-shot ImageNet classification.
 		- In the initial 16 GPU day experiment, using the VirTex approach, OpenAI observed that a language model achieved only 16% accuracy on ImageNet after training for 400 million images. In contrast, CLIP is much more efficient and achieved the same accuracy roughly 10x faster.
 	2. The second choice was the adoption of the Vision Transformer,[36](https://openai.com/index/clip/#citation-bottom-36) which gave us a further 3x gain in compute efficiency over a standard ResNet. In the end, our best performing CLIP model trains on 256 GPUs for 2 weeks which is similar to existing large scale image models.[37](https://openai.com/index/clip/#citation-bottom-37), [23](https://openai.com/index/clip/#citation-bottom-23), [38](https://openai.com/index/clip/#citation-bottom-38), [36](https://openai.com/index/clip/#citation-bottom-36)
-7. 
+
 
 ## CLIP Training approach
 1. OpenAI scraped the internet for images-text pairs.
@@ -52,4 +52,15 @@ As such, CLIP was trained to learn & represent visual concepts from natural lang
 	- 
 > [!info] 
 > OpenAI's article talks of CLIP in plural, as *"CLIP models"* because CLIP is composed of two encoder models: one image encoder model; other text encoder model.
+
+
+## CLIP - Limitations
+1. While CLIP usually performs well on recognizing common objects, it struggles on: 
+	1. more abstract or systematic tasks such as counting the number of objects in an image; and on 
+	2. more complex tasks such as predicting how close the nearest car is in a photo. 
+	On these two datasets, zero-shot CLIP is only slightly better than random guessing. 
+2. Zero-shot CLIP also struggles compared to task specific models on very fine-grained classification, such as telling the difference between car models, variants of aircraft, or flower species.
+3. CLIP also still has poor generalization to images not covered in its pre-training dataset. For instance, although CLIP learns a capable OCR system, when evaluated on handwritten digits from the MNIST dataset, zero-shot CLIP only achieves 88% accuracy, well below the 99.75% of humans on the dataset. 
+4. Finally, we’ve observed that CLIP’s zero-shot classifiers can be sensitive to wording or phrasing and sometimes require trial and error “prompt engineering” to perform well.
+
 
