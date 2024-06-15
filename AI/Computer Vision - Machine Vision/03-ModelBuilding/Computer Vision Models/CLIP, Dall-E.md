@@ -10,7 +10,7 @@ Dall-E works in a 3-step process:
 > - https://openai.com/index/clip/
 > - https://www.youtube.com/watch?v=jwZQD0Cqz4o
 
-CLIP is part of a group of papers (or, comity of models) revisiting learning visual representations from natural language supervision. Just that it uses more modern architectures like the Transformer[32](https://openai.com/index/clip/#citation-bottom-32) and includes VirTex,[33](https://openai.com/index/clip/#citation-bottom-33) which explored autoregressive language modeling, ICMLM,[34](https://openai.com/index/clip/#citation-bottom-34) which investigated masked language modeling, and ConVIRT,[35](https://openai.com/index/clip/#citation-bottom-35) which studied the same contrastive objective we use for CLIP but in the field of medical imaging.
+CLIP is part of a group of papers (or, comity of models) revisiting learning visual representations from natural language supervision. Just that it uses more modern architectures (like the Transformer architecture) and includes VirTex,[33](https://openai.com/index/clip/#citation-bottom-33) which explored autoregressive language modeling, ICMLM,[34](https://openai.com/index/clip/#citation-bottom-34) which investigated masked language modeling, and ConVIRT,[35](https://openai.com/index/clip/#citation-bottom-35) which studied the same contrastive objective we use for CLIP but in the field of medical imaging.
 
 The CLIP model contains two encoders: a Text encoder and an Image encoder. Whichever form of input it's given, it feeds it to the appropriate encoder.
 CLIP is a model use by OpenAI to train Dall-E. CLIP generates 
@@ -19,8 +19,16 @@ CLIP is a model use by OpenAI to train Dall-E. CLIP generates
 3. The two embeddings are compared to determine whether they are in sync.
 As such, CLIP was trained to learn & represent visual concepts from natural language supervision (i.e., the associated text caption/description). CLIP can be applied to any visual classification benchmark by simply providing the names of the visual categories to be recognized.
 
-This approach helps OpenAI address some critical weaknesses in the AI ecosystem:
-1. Leveraging contrastive learning, the model learn 1 embedding representation for an object's  textual and visual representation.
-2. This allows the model to generalize well over several benchmarks, which measure varied vision aspects. For instance,
-	1. ObjectNet checks a model’s ability to recognize objects in many different poses and with many different backgrounds inside homes; while 
-	2. ImageNet Rendition and ImageNet Sketch check a model’s ability to recognize more abstract depictions of objects.
+## CLIP Achievements
+1. It demonstrated that scaling a simple pre-training task is sufficient to achieve competitive zero-shot performance on a great variety of image classification datasets. 
+	- The pre-training task it scales is that of image-caption association. Previously, this contrastive approach was adopted by ConVIRT, but was limited to the field of medical imaging.
+2. This approach helps OpenAI address some critical weaknesses in the AI ecosystem:
+	1. Leveraging contrastive learning, the model learn 1 embedding representation for an object's  textual and visual representation.
+	2. This allows the model to generalize well over several benchmarks, which measure varied vision aspects. For instance,
+		1. ObjectNet checks a model’s ability to recognize objects in many different poses and with many different backgrounds inside homes; while 
+		2. ImageNet Rendition and ImageNet Sketch check a model’s ability to recognize more abstract depictions of objects.
+3. Gathering the data to train CLIP proved to be much simpler, since they uses an abundantly available source of supervision: the text paired with images found across the internet. As such, they didn't need human labelers to create this dataset, and dataset preparation proved to be cheap. 
+
+## CLIP Training approach
+1. OpenAI scraped the internet for images-text pairs.
+2. These image-text pairs were used by OpenAI to 
