@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/NLP/04-Model Training/__references__.md",
+                "file": "AI/NLP/04-Model Training/__init__.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/NLP/04-Model Training/__references__.md",
+                "file": "AI/NLP/04-Model Training/__init__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/NLP/04-Model Training/__references__.md",
+                "file": "AI/NLP/04-Model Training/__init__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/NLP/04-Model Training/__references__.md"
+                "file": "AI/NLP/04-Model Training/__init__.md"
               }
             }
           },
@@ -156,8 +156,8 @@
   },
   "active": "58c2a043f0f484dd",
   "lastOpenFiles": [
-    "AI/NLP/04-Model Training/__init__.md",
     "AI/NLP/04-Model Training/__references__.md",
+    "AI/NLP/04-Model Training/__init__.md",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/__references__.md",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Vocabulary.md",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/Historical Evolution of LLM-based systems.md",
