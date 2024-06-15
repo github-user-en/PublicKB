@@ -11,6 +11,7 @@ Dall-E works in a 3-step process:
 > - https://www.youtube.com/watch?v=jwZQD0Cqz4o
 
 CLIP is part of a group of papers (or, comity of models) revisiting learning visual representations from natural language supervision. Just that it uses more modern architectures (like the Transformer architecture) and includes VirTex,[33](https://openai.com/index/clip/#citation-bottom-33) which explored autoregressive language modeling, ICMLM,[34](https://openai.com/index/clip/#citation-bottom-34) which investigated masked language modeling, and ConVIRT,[35](https://openai.com/index/clip/#citation-bottom-35) which studied the same contrastive objective we use for CLIP but in the field of medical imaging.
+- For this zero-shot classification task, OpenAI originally explored training image-to-caption language models (an image-to-text approach, similar to VirTex), but found this approach struggled at zero-shot transfer across multiple benchmarks.
 
 The CLIP model contains two encoders: a Text encoder and an Image encoder. Whichever form of input it's given, it feeds it to the appropriate encoder.
 CLIP is a model use by OpenAI to train Dall-E. CLIP generates 
@@ -34,6 +35,7 @@ As such, CLIP was trained to learn & represent visual concepts from natural lang
 4. OpenAI demonstrated that creating dataset for such a capable zero-shot classifier could be cheaper than previous efforts. They used an abundantly available source of supervision: the text paired with images found across the internet. As such, they didn't need human labelers to create this dataset, and dataset preparation proved to be cheap. 
 	- In comparison, the ImageNet dataset, one of the largest efforts in this space, required over 25,000 workers to annotate 14 million images for 22,000 object categories.
 5. **CLIP is highly efficient:** CLIP learns from unfiltered, highly varied, and highly noisy data, and is intended to be used in a zero-shot manner. OpenAI knew from GPT-2 and 3 that models trained on such data can achieve compelling zero shot performance; however, such models require significant training compute. 
+6. Despite their noisy dataset, training over which would have required significant training compute
 
 ## CLIP Training approach
 1. OpenAI scraped the internet for images-text pairs.
