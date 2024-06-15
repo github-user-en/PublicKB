@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
+                "file": "AI/NLP/04-Model Training/__init__.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "grokking",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
+                "file": "AI/NLP/04-Model Training/__init__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
+                "file": "AI/NLP/04-Model Training/__init__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md"
+                "file": "AI/NLP/04-Model Training/__init__.md"
               }
             }
           },
@@ -154,53 +154,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58c2a043f0f484dd",
+  "active": "b6fe22225f583455",
   "lastOpenFiles": [
-    "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Untitled3.md",
-    "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Untitled.md",
-    "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Untitled2.md",
-    "Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
-    "Information Retrieval/Vector Search Techniques/Vector Databases.md",
+    "AI",
+    "AI Terminology.md",
+    "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
+    "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Untitled3.md",
+    "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Untitled.md",
+    "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Untitled2.md",
+    "AI/Information Retrieval/Vector Search Techniques/Vector Databases.md",
     "NLP/03-Model Building/Large Language Models (LLMs)/'.md",
-    "NLP/04-Model Training/__init__.md",
+    "AI/NLP/04-Model Training/__init__.md",
     "__assets__/Pasted image 20240609141243.png",
     "__assets__/Pasted image 20240609134918.png",
-    "NLP/05-Model Finetuning/__init__.md",
-    "NLP/04-Model Training",
+    "AI/NLP/05-Model Finetuning/__init__.md",
+    "AI/NLP/04-Model Training",
     "__assets__/Pasted image 20240609123006.png",
     "__assets__/Pasted image 20240609122635.png",
-    "NLP/03-Model Building/Large Language Models (LLMs)/LLM Vocabulary.md",
-    "NLP/05-Model Finetuning",
+    "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Vocabulary.md",
+    "AI/NLP/05-Model Finetuning",
     "__assets__/Pasted image 20240609113442.png",
-    "NLP/03-Model Building/Large Language Models (LLMs)/Historical Evolution of LLM-based systems.md",
+    "AI/NLP/03-Model Building/Large Language Models (LLMs)/Historical Evolution of LLM-based systems.md",
     "__assets__/Pasted image 20240608221227.png",
     "__assets__/Pasted image 20240609011519.png",
     "__assets__/Pasted image 20240608230130.png",
     "__assets__/Pasted image 20240608224008.png",
     "README.md",
-    "NLP/03-Model Building/Large Language Models (LLMs)",
-    "NLP/03-Model Building/Large Language Models (LLMs)/Quantization.md",
-    "NLP/03-Model Building/Large Language Models (LLMs)/Retrieval Augmented Generation (RAG).md",
-    "NLP/__References__.md",
-    "NLP/03-Model Building",
-    "AI Terminology.md",
+    "AI/NLP/03-Model Building/Large Language Models (LLMs)",
+    "AI/NLP/03-Model Building/Large Language Models (LLMs)/Quantization.md",
+    "AI/NLP/03-Model Building/Large Language Models (LLMs)/Retrieval Augmented Generation (RAG).md",
+    "AI/NLP/__References__.md",
+    "AI/NLP/03-Model Building",
     "Python/OOPS concepts in Python/Polymorphism.md",
-    "Information Retrieval/Vector Search Techniques/Euclidean Distance Similarity vs Cosine Similarity.md",
+    "AI/Information Retrieval/Vector Search Techniques/Euclidean Distance Similarity vs Cosine Similarity.md",
     "Python/OOPS concepts in Python",
     "Python",
-    "Information Retrieval/Vector Search Techniques/Modality based Vector Search Characteristics.md",
-    "Information Retrieval/Vector Search Techniques/02-Approximate Nearest Neighbour/01-Hierarchical Navigable Small Worlds Graph (HNSW).md",
-    "Information Retrieval/Vector Search Techniques/01-Exhaustive Search.md",
-    "Computer Vision - Machine Vision/02-Feature Extraction/__References__.md",
-    "Information Retrieval/Vector Search Techniques",
-    "Information Retrieval/Vector Search Techniques/02-Approximate Nearest Neighbour",
-    "NLP/02-Feature Extraction/BM25.md",
-    "Information Retrieval",
-    "NLP/02-Feature Extraction/TF-IDF.md",
-    "NLP/02-Feature Extraction",
-    "Computer Vision - Machine Vision/__References__.md",
-    "Computer Vision - Machine Vision/02-Feature Extraction/Colour Features.md",
-    "Computer Vision - Machine Vision/Computer Vision Terminology.md",
+    "AI/Information Retrieval/Vector Search Techniques/Modality based Vector Search Characteristics.md",
+    "AI/Information Retrieval/Vector Search Techniques/02-Approximate Nearest Neighbour/01-Hierarchical Navigable Small Worlds Graph (HNSW).md",
+    "AI/Information Retrieval/Vector Search Techniques/01-Exhaustive Search.md",
+    "AI/Computer Vision - Machine Vision/02-Feature Extraction/__References__.md",
+    "AI/Information Retrieval/Vector Search Techniques",
+    "AI/Information Retrieval/Vector Search Techniques/02-Approximate Nearest Neighbour",
+    "AI/NLP/02-Feature Extraction/BM25.md",
+    "AI/Information Retrieval",
+    "AI/NLP/02-Feature Extraction/TF-IDF.md",
+    "AI/NLP/02-Feature Extraction",
+    "AI/Computer Vision - Machine Vision/__References__.md",
+    "AI/Computer Vision - Machine Vision/02-Feature Extraction/Colour Features.md",
     "__assets__/Pasted image 20240523120739.png"
   ]
 }
