@@ -22,13 +22,18 @@ As such, CLIP was trained to learn & represent visual concepts from natural lang
 ## CLIP Achievements
 1. It demonstrated that scaling a simple pre-training task is sufficient to achieve competitive zero-shot performance on a great variety of image classification datasets. CLIP models can be applied to nearly arbitrary visual classification tasks.
 	- The pre-training task it scales is that of image-caption association. Previously, this contrastive approach was adopted by ConVIRT, but was limited to the field of medical imaging.
-2. This approach helps OpenAI mitigate three critical weaknesses in the AI ecosystem:
-	1. Leveraging contrastive learning, the model learn 1 embedding representation for an object's  textual and visual representation.
-	2. **Narrowness:** For example, an ImageNet model is good at predicting the 1000 ImageNet categories, but that’s all it can do “out of the box.” If we wish to perform any other task, an ML practitioner needs to build a new dataset, add an output head, and fine-tune the model. In contrast, CLIP can be adapted to perform a wide variety of visual classification tasks without needing additional training examples. To apply CLIP to a new task, all we need to do is “tell” CLIP’s text-encoder the names of the task’s visual concepts, and it will output a linear classifier of CLIP’s visual representations. The accuracy of this classifier is often competitive with fully supervised models.
-	3. This allows the model to generalize well over several benchmarks, which measure varied vision aspects. For instance,
+2. Leveraging contrastive learning, the model learn 1 embedding representation for an object's  textual and visual representation. 
+3. **Better generalizability of the zero-shot classifier:** The aforementioned approach (of learning 1 multi-modal embedding representation over thousands/millions of images) helps CLIP generalize well over several benchmarks, which measure varied vision aspects. For instance,
 		1. ObjectNet checks a model’s ability to recognize objects in many different poses and with many different backgrounds inside homes; while 
 		2. ImageNet Rendition and ImageNet Sketch check a model’s ability to recognize more abstract depictions of objects.
-3. Gathering the data to train CLIP proved to be much simpler, since they uses an abundantly available source of supervision: the text paired with images found across the internet. As such, they didn't need human labelers to create this dataset, and dataset preparation proved to be cheap. 
+> [!info]
+> OpenAI conjectured that the previous classifiers suffered from poor generalizability because the models “cheat” by only optimizing for performance on the benchmark, much like a student who passed an exam by studying only the questions on past years’ exams.
+> To verify the “cheating hypothesis”, we also measure how CLIP’s performance changes when it is able to “study” for ImageNet. When a linear classifier is fitted on top of CLIP’s features, it improves CLIP’s accuracy on the ImageNet test set by almost 10%. However, this classifier does _no better_ on average across an evaluation suite of 7 other datasets measuring “robust” performance.[30](https://openai.com/index/clip/#citation-bottom-30)
+
+
+4. OpenAI demonstrated that creating dataset for such a capable zero-shot classifier could be cheaper than previous efforts. They used an abundantly available source of supervision: the text paired with images found across the internet. As such, they didn't need human labelers to create this dataset, and dataset preparation proved to be cheap. 
+	- In comparison, the ImageNet dataset, one of the largest efforts in this space, required over 25,000 workers to annotate 14 million images for 22,000 object categories.
+5. **CLIP is highly efficient:** 
 
 ## CLIP Training approach
 1. OpenAI scraped the internet for images-text pairs.
