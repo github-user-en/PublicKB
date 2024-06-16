@@ -61,6 +61,8 @@ As such, CLIP was trained to learn & represent visual concepts from natural lang
 	On these two datasets, zero-shot CLIP is only slightly better than random guessing. 
 2. Zero-shot CLIP also struggles compared to task specific models on very fine-grained classification, such as telling the difference between car models, variants of aircraft, or flower species.
 3. CLIP also still has poor generalization to images not covered in its pre-training dataset. For instance, although CLIP learns a capable OCR system, when evaluated on handwritten digits from the MNIST dataset, zero-shot CLIP only achieves 88% accuracy, well below the 99.75% of humans on the dataset. 
+	- However, this does not mean that we need a specialized OCR model, or to train a ViT only on OCR data. CLIP itself can be finetuned on OCR data. CLIP does away with the need to create task-specific classifier models.
 4. Finally, we’ve observed that CLIP’s zero-shot classifiers can be sensitive to wording or phrasing and sometimes require trial and error “prompt engineering” to perform well.
-
+	- The manner in which these classes are designed can heavily influence both model performance and model biases. For example, we find that when given a set of labels including Fairface[39](https://openai.com/index/clip/#citation-bottom-39) race labels[C](https://openai.com/index/clip/#citation-bottom-C) and a handful of egregious terms such as “criminal”, “animal,” etc., the model tends to classify images of people aged 0–20 in the egregious category at a rate of ~32.3%. However, when we add the class “child” to the list of possible classes, this behaviour drops to ~8.7%.
+5. Although it’s noteworthy to achieve these results with task agnostic pre-training, this performance is not competitive when compared to widely available production level models.
 
