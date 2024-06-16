@@ -9,6 +9,7 @@ Dall-E works in a 3-step process:
 > - https://www.youtube.com/watch?v=8sVgLz3-W_s
 > - https://openai.com/index/clip/
 > - https://www.youtube.com/watch?v=jwZQD0Cqz4o
+> - CLIP Paper: [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
 
 CLIP is part of a group of papers (or, comity of models) revisiting learning visual representations from natural language supervision. Just that it uses more modern architectures (like the Transformer architecture) and includes VirTex,[33](https://openai.com/index/clip/#citation-bottom-33) which explored autoregressive language modeling, ICMLM,[34](https://openai.com/index/clip/#citation-bottom-34) which investigated masked language modeling, and ConVIRT,[35](https://openai.com/index/clip/#citation-bottom-35) which studied the same contrastive objective we use for CLIP but in the field of medical imaging.
 - For this zero-shot classification task, OpenAI originally explored training image-to-caption language models (an image-to-text approach, similar to VirTex), but found this approach struggled at zero-shot transfer across multiple benchmarks.
@@ -66,3 +67,7 @@ As such, CLIP was trained to learn & represent visual concepts from natural lang
 	- The manner in which these classes are designed can heavily influence both model performance and model biases. For example, we find that when given a set of labels including Fairface[39](https://openai.com/index/clip/#citation-bottom-39) race labels[C](https://openai.com/index/clip/#citation-bottom-C) and a handful of egregious terms such as “criminal”, “animal,” etc., the model tends to classify images of people aged 0–20 in the egregious category at a rate of ~32.3%. However, when we add the class “child” to the list of possible classes, this behaviour drops to ~8.7%.
 5. Although it’s noteworthy to achieve these results with task agnostic pre-training, this performance is not competitive when compared to widely available production level models.
 
+## CLIP - Conclusion
+With CLIP, OpenAI tested whether task agnostic pre-training on internet scale natural language, which has powered the breakthrough of GPT in NLP, can also be leveraged to improve the performance of deep learning for other fields. 
+
+OpenAI is excited by the results we’ve seen so far applying this approach to computer vision. Like the GPT family, CLIP learns a wide variety of tasks during pre-training which we demonstrate via zero-shot transfer. We are also encouraged by our findings on ImageNet that suggest zero-shot evaluation is a more representative measure of a model’s capability.
