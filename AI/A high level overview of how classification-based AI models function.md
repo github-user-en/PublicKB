@@ -4,3 +4,4 @@ All classification-based AI models can be visualized into two abstract blocks:
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | In this block, the objective is to come up with the best embedding representation one can, of the input blob (be it text / video / audio). | This is almost always a combination of: (a) a few linear feed-forward layers interleaved by non-linear activation layers; (b) followed by a softmax to convert the logits to probabilities. The number of outputs of this layer is equal to the the number of classes at hand. |
 
+# Applying this framework to modern AI models
