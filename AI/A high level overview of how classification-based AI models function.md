@@ -10,4 +10,6 @@ Modern classification AI models are all Transformer based. In the Transformer to
 	- In this block, we create the embedding step-by-step, layer-by-layer.
 		1. It begins with tokenization and the patch embeddings;
 		2. You add position information by concatenating to them the positional embeddings;
-		3. 
+		3. Then, the transformer's normalization layer normalizes them for faster computation;
+		4. The attention layer then enriches these embeddings with additional information about relations between the tokens.
+			- In this layer, using Masked attention adds only 
