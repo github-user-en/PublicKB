@@ -11,5 +11,9 @@ Modern classification AI models are all Transformer based. In the Transformer to
 		1. It begins with tokenization and the patch embeddings;
 		2. You add position information by concatenating to them the positional embeddings;
 		3. Then, the transformer's normalization layer normalizes them for faster computation;
-		4. The attention layer then enriches these embeddings with additional information about relations between the tokens.
-			- In this layer, using Masked attention adds only 
+		4. The attention layer then enriches these embeddings with additional information about relations between the tokens. (The relationships the attention mechanism adds to the embeddings can be thought as being proxies to the Subject-Verb-Object or Subject-Adjective-Object relationships that were previously added as NLP features using Spacy. )
+			- In this layer, using Masked attention adds only the relationships unidirectionally (say, from left-to-right), in contrast to the BERT's bidirectional relationship encoding.
+		5. The residual connection reinforces these relationships with the original input to prevent the problem of vanishing gradient.
+2. **Block-2: The MLP Classification Block**
+	- Consists of alternating Linear Feedforward and Non-linear activation (such as ReLU) layers.
+	- Sometimes, also consists of Dropout layers.
