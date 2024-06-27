@@ -27,11 +27,9 @@ To access ISRO's (Indian Space Research Organisation) remote sensing imagery, yo
     - MOSDAC: ISRO's Meteorological and Oceanographic Satellite Data Archival Centre (MOSDAC) provides access to meteorological and oceanographic data, including remote sensing imagery. Visit MOSDAC's website (https://www.mosdac.gov.in/) for more information.
 
 # What is Cross-Modal Image Retrieval (CMIR)?
-
 Cross-modal image retrieval involves searching for (and retrieving) images using queries that are not images themselves but belong to another type of data, such as text, audio, or even sketches. The goal of cross-modal image retrieval is to bridge the gap between different modalities of data and enable users to search and retrieve relevant images using diverse input formats.
 
 # What is "Cross-Modal Retrieval on RSITMD"?
-
 Cross-Modal Retrieval on RSITMD refers to performing a cross-modal retrieval task on the Remote Sensing Image Text Matching Dataset (RSITMD). RSITMD is a dataset specifically designed for remote sensing image-text retrieval tasks, containing a collection of images and their corresponding text descriptions.
 
 Cross-modal retrieval involves matching data across different modalities, such as images and text. In the context of RSITMD, the goal of cross-modal retrieval is to develop methods that can retrieve relevant remote sensing images given a text query or retrieve relevant text descriptions given a remote sensing image query.
