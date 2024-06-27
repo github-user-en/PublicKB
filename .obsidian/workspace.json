@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/Remote Sensing Image Retrieval.md",
+                "file": "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8dfcec91940554e8",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/Remote Sensing Image Retrieval.md",
+                "file": "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/Remote Sensing Image Retrieval.md",
+                "file": "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/Remote Sensing Image Retrieval.md"
+                "file": "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md"
               }
             }
           },
@@ -156,10 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58c2a043f0f484dd",
+  "active": "b6fe22225f583455",
   "lastOpenFiles": [
-    "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/__References__.md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/Remote Sensing Image Retrieval.md",
+    "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/__References__.md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Untitled.md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/AI Objectives in Computer Vision.md",
