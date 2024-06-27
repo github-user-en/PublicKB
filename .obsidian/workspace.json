@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
+                "file": "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/Remote Sensing Image Retrieval.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8dfcec91940554e8",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
+                "file": "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/Remote Sensing Image Retrieval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
+                "file": "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/Remote Sensing Image Retrieval.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md"
+                "file": "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/Remote Sensing Image Retrieval.md"
               }
             }
           },
@@ -138,11 +139,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 404.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,10 +156,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6fe22225f583455",
+  "active": "58c2a043f0f484dd",
   "lastOpenFiles": [
-    "AI/A high level overview of how classification-based AI models function.md",
+    "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/__References__.md",
+    "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/Remote Sensing Image Retrieval.md",
+    "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Untitled.md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
+    "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/AI Objectives in Computer Vision.md",
+    "AI/A high level overview of how classification-based AI models function.md",
     "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/CLIP, Dall-E.md",
     "AI/NLP/04-Model Training/__init__.md",
     "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models",
@@ -169,7 +175,6 @@
     "AI",
     "AI Terminology.md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Untitled3.md",
-    "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Untitled.md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Untitled2.md",
     "AI/Information Retrieval/Vector Search Techniques/Vector Databases.md",
     "NLP/03-Model Building/Large Language Models (LLMs)/'.md",
@@ -197,10 +202,7 @@
     "Python",
     "AI/Information Retrieval/Vector Search Techniques/Modality based Vector Search Characteristics.md",
     "AI/Information Retrieval/Vector Search Techniques/02-Approximate Nearest Neighbour/01-Hierarchical Navigable Small Worlds Graph (HNSW).md",
-    "AI/Information Retrieval/Vector Search Techniques/01-Exhaustive Search.md",
-    "AI/Computer Vision - Machine Vision/02-Feature Extraction/__References__.md",
     "AI/Information Retrieval/Vector Search Techniques",
-    "AI/NLP/02-Feature Extraction/BM25.md",
     "__assets__/Pasted image 20240523120739.png"
   ]
 }

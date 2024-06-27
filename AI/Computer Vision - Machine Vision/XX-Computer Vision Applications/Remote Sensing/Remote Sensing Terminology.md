@@ -67,3 +67,5 @@ Resolution in satellite imagery refers to the level of detail that can be observ
 1. **Spatial** **resolution**: This refers to the size of the smallest object that can be identified in an image, usually measured in meters or feet. Higher spatial resolution results in sharper images, with more visible details. For example, a satellite image with a 1-meter spatial resolution means that objects 1 meter or larger can be distinguished in the image.
 2. **Spectral** **resolution**: This refers to the ability of a satellite sensor to distinguish different wavelengths or frequency intervals within the electromagnetic spectrum. Images with higher spectral resolution contain more detailed spectral information, allowing for more accurate classification and analysis. Spectral resolution is particularly important for multispectral and hyperspectral imagery.
 3. **Temporal** **resolution**: This refers to the time interval between successive images captured over the same area. A higher temporal resolution means that the satellite can revisit and capture images of the same location more frequently, providing more up-to-date information.
+
+
