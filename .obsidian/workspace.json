@@ -154,8 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3594763588f4a85c",
+  "active": "58c2a043f0f484dd",
   "lastOpenFiles": [
+    "Pasted image 20240702171322.png",
+    "Pasted image 20240702171318.png",
     "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Vision Transformer/Three things everyone should know about Vision Transformers.pdf",
     "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Vision Transformer",
     "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Language-Vision Models - CLIP, Dall-E.md",
@@ -199,8 +201,6 @@
     "AI/NLP/03-Model Building",
     "Python/OOPS concepts in Python/Polymorphism.md",
     "AI/Information Retrieval/Vector Search Techniques/Euclidean Distance Similarity vs Cosine Similarity.md",
-    "Python/OOPS concepts in Python",
-    "Python",
-    "__assets__/Pasted image 20240523120739.png"
+    "Python/OOPS concepts in Python"
   ]
 }
