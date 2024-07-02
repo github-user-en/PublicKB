@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Vision Transformer.md",
+                "file": "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Vision Transformer/Things everyone should know about Vision Transformers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Vision Transformer.md",
+                "file": "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Vision Transformer/Things everyone should know about Vision Transformers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Vision Transformer.md",
+                "file": "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Vision Transformer/Things everyone should know about Vision Transformers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Vision Transformer.md"
+                "file": "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Vision Transformer/Things everyone should know about Vision Transformers.md"
               }
             }
           },
@@ -138,12 +138,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 404.5,
-    "collapsed": true
+    "width": 404.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,10 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58c2a043f0f484dd",
+  "active": "3594763588f4a85c",
   "lastOpenFiles": [
+    "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Vision Transformer/Three things everyone should know about Vision Transformers.pdf",
+    "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Vision Transformer",
     "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Language-Vision Models - CLIP, Dall-E.md",
-    "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Vision Transformer.md",
+    "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Vision Transformer/Things everyone should know about Vision Transformers.md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/Remote Sensing Image Retrieval.md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/__References__.md",
@@ -200,8 +201,6 @@
     "AI/Information Retrieval/Vector Search Techniques/Euclidean Distance Similarity vs Cosine Similarity.md",
     "Python/OOPS concepts in Python",
     "Python",
-    "AI/Information Retrieval/Vector Search Techniques/Modality based Vector Search Characteristics.md",
-    "AI/Information Retrieval/Vector Search Techniques",
     "__assets__/Pasted image 20240523120739.png"
   ]
 }
