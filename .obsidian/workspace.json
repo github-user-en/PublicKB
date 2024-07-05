@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a5c0c785d2bc3c11",
+        "id": "2529c72685a96690",
         "type": "tabs",
         "children": [
           {
-            "id": "58c2a043f0f484dd",
+            "id": "f65acca365a21fbc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/import issues.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/import issues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/import issues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/import issues.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58c2a043f0f484dd",
+  "active": "f65acca365a21fbc",
   "lastOpenFiles": [
-    "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Vision Transformer/Things everyone should know about Vision Transformers.md",
     "Python/import issues.md",
+    "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Vision Transformer/Things everyone should know about Vision Transformers.md",
     "Pasted image 20240702171322.png",
     "Pasted image 20240702171318.png",
     "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Vision Transformer/Three things everyone should know about Vision Transformers.pdf",
