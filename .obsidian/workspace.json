@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f65acca365a21fbc",
+  "active": "b6fe22225f583455",
   "lastOpenFiles": [
+    "AI/NLP/03-Model Building/Small Language Models (SLMs)/Tiny LLMs (Anirudh).pdf",
+    "AI/NLP/03-Model Building/Small Language Models (SLMs)",
     "Python/import issues.md",
     "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Vision Transformer/Things everyone should know about Vision Transformers.md",
     "Pasted image 20240702171322.png",
@@ -191,8 +193,6 @@
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/Retrieval Augmented Generation (RAG).md",
     "AI/NLP/__References__.md",
     "AI/NLP/03-Model Building",
-    "Python/OOPS concepts in Python/Polymorphism.md",
-    "AI/Information Retrieval/Vector Search Techniques/Euclidean Distance Similarity vs Cosine Similarity.md",
-    "Python/OOPS concepts in Python"
+    "Python/OOPS concepts in Python/Polymorphism.md"
   ]
 }
