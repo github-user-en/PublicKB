@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Data Visualization/T-SNE (or, t-SNE) (t-distributed stochastic neighbor embedding).md",
+                "file": "AI/Data Science/Feature Engineering/Feature Engineering Practices.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Data Visualization/T-SNE (or, t-SNE) (t-distributed stochastic neighbor embedding).md",
+                "file": "AI/Data Science/Feature Engineering/Feature Engineering Practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Data Visualization/T-SNE (or, t-SNE) (t-distributed stochastic neighbor embedding).md",
+                "file": "AI/Data Science/Feature Engineering/Feature Engineering Practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Data Visualization/T-SNE (or, t-SNE) (t-distributed stochastic neighbor embedding).md"
+                "file": "AI/Data Science/Feature Engineering/Feature Engineering Practices.md"
               }
             }
           },
@@ -156,10 +156,14 @@
   },
   "active": "f65acca365a21fbc",
   "lastOpenFiles": [
+    "AI/Data Science/Feature Engineering",
+    "AI/Untitled.md",
+    "AI/Data Science/Feature Engineering/Feature Engineering Practices.md",
+    "AI/Data Science",
+    "AI/Data Science/Data Visualization/T-SNE (or, t-SNE) (t-distributed stochastic neighbor embedding).md",
     "__assets__/Pasted image 20240702171318.png",
-    "AI/Data Visualization/T-SNE (or, t-SNE) (t-distributed stochastic neighbor embedding).md",
     "__assets__/Pasted image 20240709111821.png",
-    "AI/Data Visualization",
+    "AI/Data Science/Data Visualization",
     "AI/NLP/03-Model Building/Small Language Models (SLMs)/Tiny LLMs (Anirudh).pdf",
     "AI/NLP/03-Model Building/Small Language Models (SLMs)",
     "Python/import issues.md",
@@ -193,13 +197,10 @@
     "AI/NLP/04-Model Training",
     "__assets__/Pasted image 20240609123006.png",
     "__assets__/Pasted image 20240609122635.png",
-    "AI/NLP/05-Model Finetuning",
     "__assets__/Pasted image 20240609113442.png",
     "__assets__/Pasted image 20240608221227.png",
     "__assets__/Pasted image 20240609011519.png",
     "README.md",
-    "AI/NLP/03-Model Building/Large Language Models (LLMs)/Quantization.md",
-    "AI/NLP/03-Model Building/Large Language Models (LLMs)/Retrieval Augmented Generation (RAG).md",
-    "AI/NLP/__References__.md"
+    "AI/NLP/03-Model Building/Large Language Models (LLMs)/Quantization.md"
   ]
 }
