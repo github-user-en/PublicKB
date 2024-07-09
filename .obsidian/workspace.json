@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "51c73f8e8ed750fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Data Science/Data Visualization/T-SNE (or, t-SNE) (t-distributed stochastic neighbor embedding).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Data Science/Feature Engineering/Feature Engineering Practices.md",
+                "file": "AI/Data Science/Data Visualization/T-SNE (or, t-SNE) (t-distributed stochastic neighbor embedding).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Data Science/Feature Engineering/Feature Engineering Practices.md",
+                "file": "AI/Data Science/Data Visualization/T-SNE (or, t-SNE) (t-distributed stochastic neighbor embedding).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Data Science/Feature Engineering/Feature Engineering Practices.md"
+                "file": "AI/Data Science/Data Visualization/T-SNE (or, t-SNE) (t-distributed stochastic neighbor embedding).md"
               }
             }
           },
@@ -154,11 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f65acca365a21fbc",
+  "active": "51c73f8e8ed750fb",
   "lastOpenFiles": [
+    "AI/Data Science/Feature Engineering/Feature Engineering Practices.md",
     "AI/Data Science/Feature Engineering",
     "AI/Untitled.md",
-    "AI/Data Science/Feature Engineering/Feature Engineering Practices.md",
     "AI/Data Science",
     "AI/Data Science/Data Visualization/T-SNE (or, t-SNE) (t-distributed stochastic neighbor embedding).md",
     "__assets__/Pasted image 20240702171318.png",
@@ -194,7 +207,6 @@
     "__assets__/Pasted image 20240609141243.png",
     "__assets__/Pasted image 20240609134918.png",
     "AI/NLP/05-Model Finetuning/__init__.md",
-    "AI/NLP/04-Model Training",
     "__assets__/Pasted image 20240609123006.png",
     "__assets__/Pasted image 20240609122635.png",
     "__assets__/Pasted image 20240609113442.png",
