@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Machine Learning/Model Evaluation/Evaluation in Classification Models.md",
+                "file": "AI/Data Science/Feature Engineering/Feature Engineering Practices.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Machine Learning/Model Evaluation/Evaluation in Classification Models.md",
+                "file": "AI/Data Science/Feature Engineering/Feature Engineering Practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Machine Learning/Model Evaluation/Evaluation in Classification Models.md",
+                "file": "AI/Data Science/Feature Engineering/Feature Engineering Practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Machine Learning/Model Evaluation/Evaluation in Classification Models.md"
+                "file": "AI/Data Science/Feature Engineering/Feature Engineering Practices.md"
               }
             }
           },
@@ -169,6 +169,8 @@
   },
   "active": "51c73f8e8ed750fb",
   "lastOpenFiles": [
+    "AI/Data Science/Feature Engineering/Data curation via JEST.pdf",
+    "AI/Machine Learning/Model Evaluation/Evaluation in Classification Models.md",
     "Pasted image 20240709204959.png",
     "Pasted image 20240709204948.png",
     "Pasted image 20240709204932.png",
@@ -177,7 +179,6 @@
     "AI/Machine Learning",
     "AI/Data Science/Feature Engineering/Feature Engineering Practices.md",
     "AI/Data Science/Feature Engineering",
-    "AI/Machine Learning/Model Evaluation/Evaluation in Classification Models.md",
     "AI/Data Science",
     "__assets__/Pasted image 20240702171318.png",
     "__assets__/Pasted image 20240709111821.png",
@@ -212,7 +213,6 @@
     "AI/NLP/05-Model Finetuning/__init__.md",
     "__assets__/Pasted image 20240609123006.png",
     "__assets__/Pasted image 20240609122635.png",
-    "__assets__/Pasted image 20240609113442.png",
     "README.md",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/Quantization.md"
   ]
