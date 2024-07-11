@@ -1,3 +1,11 @@
+$$ \text{Mean Average Precision} = \frac{1}{n} \sum_{k=1}^{n} \text{AP}_k 
+$$
+$$
+n = number of class 
+\newline 
+\ \text{AP}_k = \text{the average precision of class k}
+$$
+
 Mean Average Precision (mAP) is a performance metric used to evaluate the accuracy of object detection models. It is commonly used in computer vision tasks such as object detection and information retrieval. Here are the key points about mAP:
 
 ## What is mAP?
