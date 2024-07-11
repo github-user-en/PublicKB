@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Context Window Elongation.md",
+                "file": "Data Science/Feature Engineering/00-Feature Engineering Practices.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Context Window Elongation.md",
+                "file": "Data Science/Feature Engineering/00-Feature Engineering Practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Context Window Elongation.md",
+                "file": "Data Science/Feature Engineering/00-Feature Engineering Practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Context Window Elongation.md"
+                "file": "Data Science/Feature Engineering/00-Feature Engineering Practices.md"
               }
             }
           },
@@ -154,10 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da155b418a0ad015",
+  "active": "b6fe22225f583455",
   "lastOpenFiles": [
-    "AI/NLP/03-Model Building/Large Language Models (LLMs)/__references__.md",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Context Window Elongation.md",
+    "AI/NLP/03-Model Building/Large Language Models (LLMs)/__references__.md",
     "Data Science/Feature Engineering/Encord-Automotus Case Study.md",
     "__assets__/Pasted image 20240711124248.png",
     "Data Science/Feature Engineering/00-Feature Engineering Practices.md",
