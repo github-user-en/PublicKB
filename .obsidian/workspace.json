@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2529c72685a96690",
+        "id": "cb8185b979deb953",
         "type": "tabs",
         "children": [
           {
-            "id": "f65acca365a21fbc",
+            "id": "da155b418a0ad015",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Machine Learning/Model Evaluation/Mean Average Precision (mAP).md",
+                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Context Window Elongation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Machine Learning/Model Evaluation/Mean Average Precision (mAP).md",
+                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Context Window Elongation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Machine Learning/Model Evaluation/Mean Average Precision (mAP).md",
+                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Context Window Elongation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Machine Learning/Model Evaluation/Mean Average Precision (mAP).md"
+                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Context Window Elongation.md"
               }
             }
           },
@@ -154,14 +154,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6fe22225f583455",
+  "active": "da155b418a0ad015",
   "lastOpenFiles": [
+    "AI/NLP/03-Model Building/Large Language Models (LLMs)/__references__.md",
+    "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Context Window Elongation.md",
+    "Data Science/Feature Engineering/Encord-Automotus Case Study.md",
+    "__assets__/Pasted image 20240711124248.png",
+    "Data Science/Feature Engineering/00-Feature Engineering Practices.md",
+    "AI/Machine Learning/Model Evaluation/Mean Average Precision (mAP).md",
+    "Data Science/Feature Engineering/__References__",
     "AI/Machine Learning/Model Evaluation/Evaluation Metrics for Object Detection Models",
     "AI/Machine Learning/Model Evaluation/Evaluation in Classification Models.md",
-    "AI/Machine Learning/Model Evaluation/Mean Average Precision (mAP).md",
-    "Data Science/Feature Engineering/Feature Engineering Practices.md",
     "__assets__/Pasted image 20240709204932.png",
-    "Data Science/Feature Engineering/Data curation via JEST.pdf",
+    "Data Science/Feature Engineering/__References__/Data curation via JEST.pdf",
     "__assets__/Pasted image 20240709204959.png",
     "__assets__/Pasted image 20240709204948.png",
     "AI/Machine Learning/Model Evaluation",
@@ -177,8 +182,6 @@
     "Python/import issues.md",
     "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Vision Transformer/Things everyone should know about Vision Transformers.md",
     "__assets__/Pasted image 20240702171322.png",
-    "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Vision Transformer/Three things everyone should know about Vision Transformers.pdf",
-    "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Vision Transformer",
     "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Language-Vision Models - CLIP, Dall-E.md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/Remote Sensing Image Retrieval.md",
@@ -188,7 +191,6 @@
     "AI/A high level overview of how classification-based AI models function.md",
     "AI/NLP/04-Model Training/__init__.md",
     "AI/NLP/04-Model Training/__references__.md",
-    "AI/NLP/03-Model Building/Large Language Models (LLMs)/__references__.md",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Vocabulary.md",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/Historical Evolution of LLM-based systems.md",
     "AI Terminology.md",
@@ -199,8 +201,6 @@
     "__assets__/Pasted image 20240609141243.png",
     "__assets__/Pasted image 20240609134918.png",
     "AI/NLP/05-Model Finetuning/__init__.md",
-    "__assets__/Pasted image 20240609123006.png",
-    "__assets__/Pasted image 20240609122635.png",
-    "README.md"
+    "__assets__/Pasted image 20240609123006.png"
   ]
 }
