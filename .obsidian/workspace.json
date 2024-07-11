@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Data Science/Feature Engineering/Feature Engineering Practices.md",
+                "file": "AI/Machine Learning/Model Evaluation/Mean Average Precision (mAP).md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "51c73f8e8ed750fb",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "__assets__/Pasted image 20240709204932.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__assets__/Pasted image 20240709204932.png",
+                "file": "AI/Machine Learning/Model Evaluation/Mean Average Precision (mAP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__assets__/Pasted image 20240709204932.png",
+                "file": "AI/Machine Learning/Model Evaluation/Mean Average Precision (mAP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__assets__/Pasted image 20240709204932.png"
+                "file": "AI/Machine Learning/Model Evaluation/Mean Average Precision (mAP).md"
               }
             }
           },
@@ -165,22 +154,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51c73f8e8ed750fb",
+  "active": "b6fe22225f583455",
   "lastOpenFiles": [
-    "AI/Data Science/Feature Engineering/Feature Engineering Practices.md",
-    "AI/Data Science/Feature Engineering/Data curation via JEST.pdf",
+    "AI/Machine Learning/Model Evaluation/Evaluation Metrics for Object Detection Models",
     "AI/Machine Learning/Model Evaluation/Evaluation in Classification Models.md",
+    "AI/Machine Learning/Model Evaluation/Mean Average Precision (mAP).md",
+    "Data Science/Feature Engineering/Feature Engineering Practices.md",
+    "__assets__/Pasted image 20240709204932.png",
+    "Data Science/Feature Engineering/Data curation via JEST.pdf",
     "__assets__/Pasted image 20240709204959.png",
     "__assets__/Pasted image 20240709204948.png",
-    "__assets__/Pasted image 20240709204932.png",
     "AI/Machine Learning/Model Evaluation",
-    "AI/Data Science/Data Visualization/T-SNE (or, t-SNE) (t-distributed stochastic neighbor embedding).md",
+    "Data Science/Data Visualization/T-SNE (or, t-SNE) (t-distributed stochastic neighbor embedding).md",
     "AI/Machine Learning",
-    "AI/Data Science/Feature Engineering",
-    "AI/Data Science",
+    "Data Science/Feature Engineering",
+    "Data Science",
     "__assets__/Pasted image 20240702171318.png",
     "__assets__/Pasted image 20240709111821.png",
-    "AI/Data Science/Data Visualization",
+    "Data Science/Data Visualization",
     "AI/NLP/03-Model Building/Small Language Models (SLMs)/Tiny LLMs (Anirudh).pdf",
     "AI/NLP/03-Model Building/Small Language Models (SLMs)",
     "Python/import issues.md",
@@ -210,7 +201,6 @@
     "AI/NLP/05-Model Finetuning/__init__.md",
     "__assets__/Pasted image 20240609123006.png",
     "__assets__/Pasted image 20240609122635.png",
-    "README.md",
-    "AI/NLP/03-Model Building/Large Language Models (LLMs)/Quantization.md"
+    "README.md"
   ]
 }
