@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b3b6086cf498ed2e",
+        "id": "1632352171d01fee",
         "type": "tabs",
         "children": [
           {
-            "id": "ec0856d1f8ea5f1a",
+            "id": "c68f5976df7e562f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Codeium ContextModule.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Codeium ContextModule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Codeium ContextModule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Codeium ContextModule.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6fe22225f583455",
+  "active": "c68f5976df7e562f",
   "lastOpenFiles": [
+    "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Codeium ContextModule.md",
+    "__assets__/Pasted image 20240714175954.png",
     "__assets__/Pasted image 20240714173450.png",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/LLM Context Window Elongation.md",
-    "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Codeium ContextModule.md",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related",
     "Data Science/Dataset Sources.md",
     "Software Development/Software Versioning.md",
@@ -199,8 +192,6 @@
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Vocabulary.md",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/Historical Evolution of LLM-based systems.md",
     "AI Terminology.md",
-    "__assets__/Pasted image 20240609141243.png",
-    "__assets__/Pasted image 20240609134918.png",
-    "__assets__/Pasted image 20240609123006.png"
+    "__assets__/Pasted image 20240609141243.png"
   ]
 }
