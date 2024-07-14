@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Dataset Sources.md",
+                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Codeium ContextModule.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Dataset Sources.md",
+                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Codeium ContextModule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Dataset Sources.md",
+                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Codeium ContextModule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Dataset Sources.md"
+                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Codeium ContextModule.md"
               }
             }
           },
@@ -154,15 +154,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec0856d1f8ea5f1a",
+  "active": "b6fe22225f583455",
   "lastOpenFiles": [
-    "Software Development/Software Versioning.md",
+    "__assets__/Pasted image 20240714173450.png",
+    "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/LLM Context Window Elongation.md",
+    "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Codeium ContextModule.md",
+    "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related",
     "Data Science/Dataset Sources.md",
+    "Software Development/Software Versioning.md",
     "Software Development/Python/Data Types/Decimal.md",
     "Software Development",
     "Data Science/Feature Engineering/00-Feature Engineering Practices.md",
     "Software Development/Python/Data Types",
-    "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Context Window Elongation.md",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/__references__.md",
     "Data Science/Feature Engineering/Encord-Automotus Case Study.md",
     "__assets__/Pasted image 20240711124248.png",
@@ -181,7 +184,6 @@
     "Data Science",
     "__assets__/Pasted image 20240702171318.png",
     "__assets__/Pasted image 20240709111821.png",
-    "Data Science/Data Visualization",
     "Software Development/Python/import issues.md",
     "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Vision Transformer/Things everyone should know about Vision Transformers.md",
     "__assets__/Pasted image 20240702171322.png",
@@ -197,8 +199,6 @@
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Vocabulary.md",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/Historical Evolution of LLM-based systems.md",
     "AI Terminology.md",
-    "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Untitled3.md",
-    "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Untitled2.md",
     "__assets__/Pasted image 20240609141243.png",
     "__assets__/Pasted image 20240609134918.png",
     "__assets__/Pasted image 20240609123006.png"
