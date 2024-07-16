@@ -11,8 +11,12 @@
             "id": "c68f5976df7e562f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Limitations of a long context window.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Limitations of a long context window.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Limitations of a long context window.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Limitations of a long context window.md"
+              }
             }
           },
           {
@@ -148,10 +156,11 @@
   },
   "active": "c68f5976df7e562f",
   "lastOpenFiles": [
+    "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/LLM Context Window Elongation.md",
+    "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Limitations of a long context window.md",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Codeium ContextModule.md",
     "__assets__/Pasted image 20240714175954.png",
     "__assets__/Pasted image 20240714173450.png",
-    "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/LLM Context Window Elongation.md",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related",
     "Data Science/Dataset Sources.md",
     "Software Development/Software Versioning.md",
