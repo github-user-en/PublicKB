@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/GraphRAG.md",
+                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Alignment and Evaluation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/GraphRAG.md",
+                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Alignment and Evaluation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/GraphRAG.md",
+                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Alignment and Evaluation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/GraphRAG.md"
+                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Alignment and Evaluation.md"
               }
             }
           },
@@ -156,8 +156,10 @@
   },
   "active": "c68f5976df7e562f",
   "lastOpenFiles": [
-    "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/Multi-Model RAG.md",
+    "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/Retrieval Augmented Generation (RAG).md",
+    "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Alignment and Evaluation.md",
     "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/GraphRAG.md",
+    "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/Multi-Model RAG.md",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Limitations of a long context window.md",
     "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/LLM Context Window Elongation.md",
@@ -199,8 +201,6 @@
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/AI Objectives in Computer Vision.md",
     "AI/A high level overview of how classification-based AI models function.md",
     "AI/NLP/04-Model Training/__init__.md",
-    "AI/NLP/04-Model Training/__references__.md",
-    "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Vocabulary.md",
     "__assets__/Pasted image 20240609141243.png"
   ]
 }
