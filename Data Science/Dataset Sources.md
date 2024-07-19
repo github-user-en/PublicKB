@@ -14,3 +14,9 @@
 ### NYC Taxi Demand
 - {Historical Data:} https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 - {Forecast Data:}
+
+
+# Remote Sensing Datasets
+- [Spacenet datasets](https://spacenet.ai/datasets/)
+	- [video](https://www.youtube.com/watch?v=2DUcX6VGQ30)
+	- 
