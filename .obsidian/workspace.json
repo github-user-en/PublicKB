@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Dataset Sources.md",
+                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Infini-Attention.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Dataset Sources.md",
+                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Infini-Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Dataset Sources.md",
+                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Infini-Attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Dataset Sources.md"
+                "file": "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Infini-Attention.md"
               }
             }
           },
@@ -156,6 +156,8 @@
   },
   "active": "c68f5976df7e562f",
   "lastOpenFiles": [
+    "Data Science/Dataset Sources.md",
+    "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Infini-Attention.md",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Alignment and Evaluation.md",
     "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/Retrieval Augmented Generation (RAG).md",
     "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/GraphRAG.md",
@@ -167,7 +169,6 @@
     "__assets__/Pasted image 20240714175954.png",
     "__assets__/Pasted image 20240714173450.png",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related",
-    "Data Science/Dataset Sources.md",
     "Software Development/Software Versioning.md",
     "Software Development/Python/Data Types/Decimal.md",
     "Software Development",
@@ -200,7 +201,6 @@
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Untitled.md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/AI Objectives in Computer Vision.md",
     "AI/A high level overview of how classification-based AI models function.md",
-    "AI/NLP/04-Model Training/__init__.md",
     "__assets__/Pasted image 20240609141243.png"
   ]
 }
