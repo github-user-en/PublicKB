@@ -11,8 +11,12 @@
             "id": "ea5674f794b48dea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Software Development/Creating Windows SSH Client-Server.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Software Development/Creating Windows SSH Client-Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Software Development/Creating Windows SSH Client-Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Software Development/Creating Windows SSH Client-Server.md"
+              }
             }
           },
           {
@@ -134,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 404.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea5674f794b48dea",
+  "active": "b6fe22225f583455",
   "lastOpenFiles": [
+    "Software Development/Creating Windows SSH Client-Server.md",
     "Data Science/Dataset Sources.md",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Infini-Attention.md",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Alignment and Evaluation.md",
@@ -192,7 +202,6 @@
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/__References__.md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Untitled.md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/AI Objectives in Computer Vision.md",
-    "AI/A high level overview of how classification-based AI models function.md",
     "__assets__/Pasted image 20240609141243.png"
   ]
 }
