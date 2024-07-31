@@ -1,4 +1,4 @@
-# Challenges in Remote Sensing Image Retrieval
+# Challenges in Semantic Remote Sensing Image Retrieval
 1. It involves searching across image repositories on Peta Bytes/Zetta Bytes (PB/ZB) scale.
 2. High dependence on supervised learning for accurate labelling.
 3. Different instances of same feature... using different remote sensing techniques, and also, using different perspectives, etc.
