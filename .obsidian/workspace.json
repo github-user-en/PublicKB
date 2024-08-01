@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Computer Vision - Machine Vision/Computer Vision Terminology.md",
+                "file": "Data Science/Feature Engineering/__References__/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Computer Vision - Machine Vision/Computer Vision Terminology.md",
+                "file": "Data Science/Feature Engineering/__References__/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Computer Vision - Machine Vision/Computer Vision Terminology.md",
+                "file": "Data Science/Feature Engineering/__References__/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Computer Vision - Machine Vision/Computer Vision Terminology.md"
+                "file": "Data Science/Feature Engineering/__References__/Untitled.md"
               }
             }
           },
@@ -157,6 +157,8 @@
   },
   "active": "ea5674f794b48dea",
   "lastOpenFiles": [
+    "AI/Computer Vision - Machine Vision/Computer Vision Terminology.md",
+    "Data Science/Feature Engineering/__References__/Untitled.md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/Remote Sensing Image Retrieval.md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
     "Software Development/Creating Windows SSH Client-Server.md",
@@ -200,8 +202,6 @@
     "__assets__/Pasted image 20240702171322.png",
     "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Language-Vision Models - CLIP, Dall-E.md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/__References__.md",
-    "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Untitled.md",
-    "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/AI Objectives in Computer Vision.md",
     "__assets__/Pasted image 20240609141243.png"
   ]
 }
