@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md"
               }
             }
           },
@@ -155,13 +155,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6fe22225f583455",
+  "active": "ea5674f794b48dea",
   "lastOpenFiles": [
+    "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/Remote Sensing Image Retrieval.md",
+    "Untitled 1.md",
     "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/Retrieval Augmented Generation (RAG).md",
     "Untitled.md",
-    "Untitled 1.md",
     "AI/Computer Vision - Machine Vision/Computer Vision Terminology.md",
-    "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/Remote Sensing Image Retrieval.md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
     "Software Development/Creating Windows SSH Client-Server.md",
     "Data Science/Dataset Sources.md",
