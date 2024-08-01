@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Feature Engineering/__References__/Data Curation.md",
+                "file": "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/Debugging RAG.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Feature Engineering/__References__/Data Curation.md",
+                "file": "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/Debugging RAG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Feature Engineering/__References__/Data Curation.md",
+                "file": "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/Debugging RAG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Feature Engineering/__References__/Data Curation.md"
+                "file": "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/Debugging RAG.md"
               }
             }
           },
@@ -157,9 +157,9 @@
   },
   "active": "ea5674f794b48dea",
   "lastOpenFiles": [
-    "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/Debugging RAG.md",
     "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/Retrieval Augmented Generation (RAG).md",
-    "Data Science/Feature Engineering/__References__/Data Curation.md",
+    "Untitled.md",
+    "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/Debugging RAG.md",
     "AI/Computer Vision - Machine Vision/Computer Vision Terminology.md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/Remote Sensing Image Retrieval.md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
