@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Feature Engineering/__References__/Data Curation.md",
+                "file": "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/Debugging RAG.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Feature Engineering/__References__/Data Curation.md",
+                "file": "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/Debugging RAG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Feature Engineering/__References__/Data Curation.md",
+                "file": "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/Debugging RAG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Feature Engineering/__References__/Data Curation.md"
+                "file": "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/Debugging RAG.md"
               }
             }
           },
@@ -157,15 +157,16 @@
   },
   "active": "ea5674f794b48dea",
   "lastOpenFiles": [
-    "AI/Computer Vision - Machine Vision/Computer Vision Terminology.md",
+    "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/Retrieval Augmented Generation (RAG).md",
+    "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/Debugging RAG.md",
     "Data Science/Feature Engineering/__References__/Data Curation.md",
+    "AI/Computer Vision - Machine Vision/Computer Vision Terminology.md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/Remote Sensing Image Retrieval.md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
     "Software Development/Creating Windows SSH Client-Server.md",
     "Data Science/Dataset Sources.md",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Infini-Attention.md",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Alignment and Evaluation.md",
-    "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/Retrieval Augmented Generation (RAG).md",
     "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/GraphRAG.md",
     "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/Multi-Model RAG.md",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Limitations of a long context window.md",
@@ -201,7 +202,6 @@
     "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Vision Transformer/Things everyone should know about Vision Transformers.md",
     "__assets__/Pasted image 20240702171322.png",
     "AI/Computer Vision - Machine Vision/03-ModelBuilding/Computer Vision Models/Language-Vision Models - CLIP, Dall-E.md",
-    "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/__References__.md",
     "__assets__/Pasted image 20240609141243.png"
   ]
 }
