@@ -11,8 +11,12 @@
             "id": "b52702c5071f49f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AI/NLP/03-Model Building/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AI/NLP/03-Model Building/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AI/NLP/03-Model Building/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AI/NLP/03-Model Building/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md"
+              }
             }
           },
           {
@@ -147,13 +155,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b52702c5071f49f0",
+  "active": "b6fe22225f583455",
   "lastOpenFiles": [
     "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks/Jupytext.md",
     "__assets__/Pasted image 20240806163313.png",
     "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks/Miscellaneous Collection of Libraries for Jupyter Notebooks.md",
     "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks",
-    "AI/Information Retrieval/Vector Search Techniques/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
+    "AI/NLP/03-Model Building/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
     "Software Engineering/Python/Libraries and Frameworks",
     "AI/Information Retrieval/Vector Search Techniques/Retrieval Augmented Generation (RAG).md",
     "__assets__/Pasted image 20240806131656.png",
