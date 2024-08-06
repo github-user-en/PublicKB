@@ -12,3 +12,4 @@ The key to being able to use the Jupytext plugin effectively is:
 2. Instead, add either its corresponding `.py` or `.md` file to git's version control;
 3. And, to know which alternative will be correct to use in which situation. 
    (For this, see Marc Wouts' video in the references above)
+   ![[Pasted image 20240806163313.png]]

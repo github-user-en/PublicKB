@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "da9267a27a089097",
+        "id": "7179af391b186bdb",
         "type": "tabs",
         "children": [
           {
-            "id": "e1ecdaef9b08bcdd",
+            "id": "b52702c5071f49f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks/Miscellaneous Collection of Libraries for Jupyter Notebooks.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks/Miscellaneous Collection of Libraries for Jupyter Notebooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks/Miscellaneous Collection of Libraries for Jupyter Notebooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks/Miscellaneous Collection of Libraries for Jupyter Notebooks.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,11 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1ecdaef9b08bcdd",
+  "active": "b52702c5071f49f0",
   "lastOpenFiles": [
+    "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks/Jupytext.md",
+    "__assets__/Pasted image 20240806163313.png",
     "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks/Miscellaneous Collection of Libraries for Jupyter Notebooks.md",
     "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks",
-    "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks/Jupytext.md",
     "AI/Information Retrieval/Vector Search Techniques/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
     "Software Engineering/Python/Libraries and Frameworks",
     "AI/Information Retrieval/Vector Search Techniques/Retrieval Augmented Generation (RAG).md",
@@ -194,14 +187,12 @@
     "AI/Machine Learning/Model Evaluation/Mean Average Precision (mAP).md",
     "Data Science/Feature Engineering/__References__",
     "AI/Machine Learning/Model Evaluation/Evaluation Metrics for Object Detection Models",
-    "AI/Machine Learning/Model Evaluation/Evaluation in Classification Models.md",
     "__assets__/Pasted image 20240709204932.png",
     "Data Science/Feature Engineering/__References__/Data curation via JEST.pdf",
     "__assets__/Pasted image 20240709204959.png",
     "__assets__/Pasted image 20240709204948.png",
     "AI/Machine Learning/Model Evaluation",
     "__assets__/Pasted image 20240702171318.png",
-    "__assets__/Pasted image 20240709111821.png",
-    "__assets__/Pasted image 20240702171322.png"
+    "__assets__/Pasted image 20240709111821.png"
   ]
 }
