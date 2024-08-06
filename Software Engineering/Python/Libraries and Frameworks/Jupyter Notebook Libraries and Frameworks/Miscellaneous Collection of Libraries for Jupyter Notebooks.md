@@ -5,3 +5,5 @@
 MyST:
 	- [MyST-JS](https://executablebooks.org/en/latest/blog/2023-02-09-announce-mystjs/)
 	- [Executable Books](https://executablebooks.org/)
+
+[Quarto](https://quarto.org/)
