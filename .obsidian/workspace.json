@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "131a40a7cf6198c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/JSON.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/JSON.md",
+                "file": "AI/NLP/03-Model Building/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/JSON.md",
+                "file": "AI/NLP/03-Model Building/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/JSON.md"
+                "file": "AI/NLP/03-Model Building/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md"
               }
             }
           },
@@ -168,10 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "131a40a7cf6198c4",
+  "active": "b52702c5071f49f0",
   "lastOpenFiles": [
-    "AI/NLP/03-Model Building/Large Language Models (LLMs)/Historical Evolution of LLM-based systems.md",
     "Software Engineering/JSON.md",
+    "AI/NLP/03-Model Building/Large Language Models (LLMs)/Historical Evolution of LLM-based systems.md",
     "Data Science/Dataset Sources.md",
     "AI/NLP/03-Model Building/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
     "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks/Jupytext.md",
