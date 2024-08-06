@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/Dataset Sources.md",
+                "file": "Software Engineering/JSON.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Dataset Sources.md",
+                "file": "Software Engineering/JSON.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science/Dataset Sources.md",
+                "file": "Software Engineering/JSON.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science/Dataset Sources.md"
+                "file": "Software Engineering/JSON.md"
               }
             }
           },
@@ -170,6 +170,9 @@
   },
   "active": "131a40a7cf6198c4",
   "lastOpenFiles": [
+    "AI/NLP/03-Model Building/Large Language Models (LLMs)/Historical Evolution of LLM-based systems.md",
+    "Software Engineering/JSON.md",
+    "Data Science/Dataset Sources.md",
     "AI/NLP/03-Model Building/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
     "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks/Jupytext.md",
     "__assets__/Pasted image 20240806163313.png",
@@ -185,7 +188,6 @@
     "Untitled.md",
     "AI/Computer Vision - Machine Vision/Computer Vision Terminology.md",
     "Software Engineering/Creating Windows SSH Client-Server.md",
-    "Data Science/Dataset Sources.md",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Infini-Attention.md",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Alignment and Evaluation.md",
     "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/GraphRAG.md",
@@ -205,7 +207,6 @@
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/__references__.md",
     "Data Science/Feature Engineering/Encord-Automotus Case Study.md",
     "__assets__/Pasted image 20240711124248.png",
-    "AI/Machine Learning/Model Evaluation/Mean Average Precision (mAP).md",
     "Data Science/Feature Engineering/__References__",
     "AI/Machine Learning/Model Evaluation/Evaluation Metrics for Object Detection Models",
     "__assets__/Pasted image 20240709204932.png",
