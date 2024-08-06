@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fa86871d1b9929b1",
+        "id": "da9267a27a089097",
         "type": "tabs",
         "children": [
           {
-            "id": "ea5674f794b48dea",
+            "id": "e1ecdaef9b08bcdd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Python/Libraries and Frameworks/Jupytext.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Python/Libraries and Frameworks/Jupytext.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Python/Libraries and Frameworks/Jupytext.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Software Engineering/Python/Libraries and Frameworks/Jupytext.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea5674f794b48dea",
+  "active": "e1ecdaef9b08bcdd",
   "lastOpenFiles": [
-    "AI/Information Retrieval/Vector Search Techniques/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
     "Software Engineering/Python/Libraries and Frameworks/Jupytext.md",
+    "AI/Information Retrieval/Vector Search Techniques/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
     "Software Engineering/Python/Libraries and Frameworks",
     "AI/Information Retrieval/Vector Search Techniques/Retrieval Augmented Generation (RAG).md",
     "__assets__/Pasted image 20240806131656.png",
