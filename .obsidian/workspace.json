@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Information Retrieval/Vector Search Techniques/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
+                "file": "Software Engineering/Python/Libraries and Frameworks/Jupytext.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Information Retrieval/Vector Search Techniques/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
+                "file": "Software Engineering/Python/Libraries and Frameworks/Jupytext.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Information Retrieval/Vector Search Techniques/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
+                "file": "Software Engineering/Python/Libraries and Frameworks/Jupytext.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Information Retrieval/Vector Search Techniques/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md"
+                "file": "Software Engineering/Python/Libraries and Frameworks/Jupytext.md"
               }
             }
           },
@@ -157,8 +157,10 @@
   },
   "active": "ea5674f794b48dea",
   "lastOpenFiles": [
-    "AI/Information Retrieval/Vector Search Techniques/Retrieval Augmented Generation (RAG).md",
     "AI/Information Retrieval/Vector Search Techniques/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
+    "Software Engineering/Python/Libraries and Frameworks/Jupytext.md",
+    "Software Engineering/Python/Libraries and Frameworks",
+    "AI/Information Retrieval/Vector Search Techniques/Retrieval Augmented Generation (RAG).md",
     "__assets__/Pasted image 20240806131656.png",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/Remote Sensing Image Retrieval.md",
@@ -166,7 +168,7 @@
     "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/Retrieval Augmented Generation (RAG).md",
     "Untitled.md",
     "AI/Computer Vision - Machine Vision/Computer Vision Terminology.md",
-    "Software Development/Creating Windows SSH Client-Server.md",
+    "Software Engineering/Creating Windows SSH Client-Server.md",
     "Data Science/Dataset Sources.md",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related/Infini-Attention.md",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/LLM Alignment and Evaluation.md",
@@ -179,11 +181,11 @@
     "__assets__/Pasted image 20240714175954.png",
     "__assets__/Pasted image 20240714173450.png",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/Context Window-related",
-    "Software Development/Software Versioning.md",
-    "Software Development/Python/Data Types/Decimal.md",
-    "Software Development",
+    "Software Engineering/Software Versioning.md",
+    "Software Engineering/Python/Data Types/Decimal.md",
+    "Software Engineering",
     "Data Science/Feature Engineering/00-Feature Engineering Practices.md",
-    "Software Development/Python/Data Types",
+    "Software Engineering/Python/Data Types",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/__references__.md",
     "Data Science/Feature Engineering/Encord-Automotus Case Study.md",
     "__assets__/Pasted image 20240711124248.png",
@@ -198,10 +200,8 @@
     "AI/Machine Learning/Model Evaluation",
     "Data Science/Data Visualization/T-SNE (or, t-SNE) (t-distributed stochastic neighbor embedding).md",
     "AI/Machine Learning",
-    "Data Science/Feature Engineering",
     "__assets__/Pasted image 20240702171318.png",
     "__assets__/Pasted image 20240709111821.png",
-    "Software Development/Python/import issues.md",
     "__assets__/Pasted image 20240702171322.png"
   ]
 }
