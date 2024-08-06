@@ -11,8 +11,12 @@
             "id": "e1ecdaef9b08bcdd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks/Miscellaneous Collection of Libraries for Jupyter Notebooks.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks/Miscellaneous Collection of Libraries for Jupyter Notebooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks/Miscellaneous Collection of Libraries for Jupyter Notebooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks/Miscellaneous Collection of Libraries for Jupyter Notebooks.md"
+              }
             }
           },
           {
@@ -149,7 +157,9 @@
   },
   "active": "e1ecdaef9b08bcdd",
   "lastOpenFiles": [
-    "Software Engineering/Python/Libraries and Frameworks/Jupytext.md",
+    "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks/Miscellaneous Collection of Libraries for Jupyter Notebooks.md",
+    "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks",
+    "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks/Jupytext.md",
     "AI/Information Retrieval/Vector Search Techniques/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
     "Software Engineering/Python/Libraries and Frameworks",
     "AI/Information Retrieval/Vector Search Techniques/Retrieval Augmented Generation (RAG).md",
@@ -190,8 +200,6 @@
     "__assets__/Pasted image 20240709204959.png",
     "__assets__/Pasted image 20240709204948.png",
     "AI/Machine Learning/Model Evaluation",
-    "Data Science/Data Visualization/T-SNE (or, t-SNE) (t-distributed stochastic neighbor embedding).md",
-    "AI/Machine Learning",
     "__assets__/Pasted image 20240702171318.png",
     "__assets__/Pasted image 20240709111821.png",
     "__assets__/Pasted image 20240702171322.png"
