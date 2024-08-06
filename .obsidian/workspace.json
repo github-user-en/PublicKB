@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Information Retrieval/Vector Search Techniques/Retrieval Augmented Generation (RAG).md",
+                "file": "AI/Information Retrieval/Vector Search Techniques/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Information Retrieval/Vector Search Techniques/Retrieval Augmented Generation (RAG).md",
+                "file": "AI/Information Retrieval/Vector Search Techniques/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Information Retrieval/Vector Search Techniques/Retrieval Augmented Generation (RAG).md",
+                "file": "AI/Information Retrieval/Vector Search Techniques/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Information Retrieval/Vector Search Techniques/Retrieval Augmented Generation (RAG).md"
+                "file": "AI/Information Retrieval/Vector Search Techniques/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md"
               }
             }
           },
@@ -157,9 +157,10 @@
   },
   "active": "ea5674f794b48dea",
   "lastOpenFiles": [
+    "AI/Information Retrieval/Vector Search Techniques/Retrieval Augmented Generation (RAG).md",
+    "AI/Information Retrieval/Vector Search Techniques/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
     "__assets__/Pasted image 20240806131656.png",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Remote Sensing/Remote Sensing Terminology.md",
-    "AI/Information Retrieval/Vector Search Techniques/Retrieval Augmented Generation (RAG).md",
     "AI/Computer Vision - Machine Vision/XX-Computer Vision Applications/Image Retrieval/Remote Sensing Image Retrieval.md",
     "Untitled 1.md",
     "AI/NLP/03-Model Building/Retrieval Augmented Generation (RAG)/Retrieval Augmented Generation (RAG).md",
@@ -201,7 +202,6 @@
     "__assets__/Pasted image 20240702171318.png",
     "__assets__/Pasted image 20240709111821.png",
     "Software Development/Python/import issues.md",
-    "__assets__/Pasted image 20240702171322.png",
-    "__assets__/Pasted image 20240609141243.png"
+    "__assets__/Pasted image 20240702171322.png"
   ]
 }
