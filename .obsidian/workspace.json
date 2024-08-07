@@ -11,8 +11,12 @@
             "id": "20a525c433fb2e3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/JSON.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Software Engineering/JSON.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Software Engineering/JSON.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Software Engineering/JSON.md"
+              }
             }
           },
           {
@@ -147,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20a525c433fb2e3c",
+  "active": "b6fe22225f583455",
   "lastOpenFiles": [
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/Prompts Repo.md",
     "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks/Miscellaneous Collection of Libraries for Jupyter Notebooks.md",
