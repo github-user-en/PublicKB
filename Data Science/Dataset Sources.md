@@ -19,6 +19,7 @@
 	- Known Issues:
 		- There is a bug that causes outages of forecast from the API when forecasts cross into a different year. This will be fixed before the end of 2024.
 		- The gridpoints endpoint returns a 500 error. Retrying the request generally returns valid data.
+		- `/forecast` and `/forecast/hourly` will return `temperature` and `dewpoint` in different units (Fahrenheit and Celcius). To make them be returned in same unit, use the `Feature-Flags: forecast_temperature_qv,forecast_wind_speed_qv` header in your request. [Reference: Forecast issues](https://github.com/weather-gov/api/discussions/724)
 
 
 # Remote Sensing Datasets
