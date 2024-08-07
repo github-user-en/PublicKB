@@ -5,6 +5,9 @@
 - {Historical Data:} https://www.ncei.noaa.gov/cdo-web/datatools
 - {Forecast Data:} https://www.weather.gov/documentation/services-web-api
 	- {Weather Forecast Office Details using WFO ID:} https://www.weather.gov/<wfo_id>/
+	- {To get the forecast URL for a specific latitude-longitude:} 
+		- Visit https://api.weather.gov/points/{latitude},{longitude} (e.g. (for new york central park): https://api.weather.gov/points/40,-73)
+		- Ctrl+F "forecast". You'll have all the forecast URLs, which will also give you the WFO ID of the associated Weather Forecast Office.
 
 ## India Weather Data
 - {Historical Data:}
