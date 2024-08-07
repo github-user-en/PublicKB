@@ -14,7 +14,11 @@
 ## Taxi Demand
 ### NYC Taxi Demand
 - {Historical Data:} https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
-- {Forecast Data:}
+- {Forecast Data:} https://api.weather.gov/gridpoints/{OKX}/{latitude},{longitude}
+	- New York Central Park example: https://api.weather.gov/gridpoints/OKX/40,73
+	- Known Issues:
+		- There is a bug that causes outages of forecast from the API when forecasts cross into a different year. This will be fixed before the end of 2024.
+		- The gridpoints endpoint returns a 500 error. Retrying the request generally returns valid data.
 
 
 # Remote Sensing Datasets
