@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/NLP/03-Model Building/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
+                "file": "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks/Miscellaneous Collection of Libraries for Jupyter Notebooks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/NLP/03-Model Building/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
+                "file": "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks/Miscellaneous Collection of Libraries for Jupyter Notebooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/NLP/03-Model Building/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
+                "file": "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks/Miscellaneous Collection of Libraries for Jupyter Notebooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/NLP/03-Model Building/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md"
+                "file": "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks/Miscellaneous Collection of Libraries for Jupyter Notebooks.md"
               }
             }
           },
@@ -155,12 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b52702c5071f49f0",
+  "active": "b6fe22225f583455",
   "lastOpenFiles": [
+    "AI/NLP/03-Model Building/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
     "Software Engineering/JSON.md",
     "AI/NLP/03-Model Building/Large Language Models (LLMs)/Historical Evolution of LLM-based systems.md",
     "Data Science/Dataset Sources.md",
-    "AI/NLP/03-Model Building/Sentence Embeddings, BERT, Bi-Encoders, Cross-Encoders.md",
     "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks/Jupytext.md",
     "__assets__/Pasted image 20240806163313.png",
     "Software Engineering/Python/Libraries and Frameworks/Jupyter Notebook Libraries and Frameworks/Miscellaneous Collection of Libraries for Jupyter Notebooks.md",
